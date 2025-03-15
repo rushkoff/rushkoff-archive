@@ -49,6 +49,7 @@ jobs:
         env:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+          TINA_SEARCH_TOKEN: ${{ secrets.TINA_SEARCH_TOKEN }}
           TINA_BASE_PATH: ${{ vars.BASE_URL }}
         working-directory: './src'
         run: npm run tinacms build
