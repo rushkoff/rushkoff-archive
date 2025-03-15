@@ -51,6 +51,7 @@ jobs:
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           TINA_SEARCH_TOKEN: ${{ secrets.TINA_SEARCH_TOKEN }}
           TINA_BASE_PATH: ${{ vars.BASE_URL }}
+          CNAME: ${{ vars.CNAME }}
         working-directory: './src'
         run: npm run tinacms build
         
