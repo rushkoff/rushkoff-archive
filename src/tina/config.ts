@@ -24,13 +24,13 @@ export default defineConfig({
   client: { skip: true },
   build: {
     outputFolder: "admin",
-    publicFolder: "",
+    publicFolder: "./",
 //    basePath: process.env.TINA_BASE_PATH, // May be undefined
   },
   media: {
     tina: {
       mediaRoot: "uploads",
-      publicFolder: "",
+      publicFolder: "./",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
