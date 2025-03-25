@@ -13,6 +13,17 @@ const branch =
   process.env.HEAD ||
   "master";
 
+// Turn titles into URL slugs
+function slugify(values: any): string {
+  const title = values && values?.title || "untitled";
+  return String(title)
+    .toLowerCase()
+    .replace(/\s+/g, ' ')
+    .replace(/[^\w ]+/g, '')
+    .trim()
+    .replace(/\s+/, '-');
+}
+
 export default defineConfig({
   branch,
 
@@ -44,16 +55,17 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+        defaultItem: () => ({
+          // Use today's date as the default
+          date: new Date().toISOString(),
+        }),
+        fields: articleFields(),
+        ui: {
+          filename: {
+            readonly: true,
+            slugify: slugify,
           },
-          ...articleFields(),
-        ],
+        },
       },
       {
         format: "md",
@@ -63,16 +75,13 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+        fields: publicationFields(),
+        ui: {
+          filename: {
+            readonly: true,
+            slugify,
           },
-          ...publicationFields(),
-        ],
+        },
       },
       {
         format: "md",
@@ -82,17 +91,15 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+        fields: categoryFields(),
+        ui: {
+          filename: {
+            readonly: true,
+            slugify,
           },
-          ...categoryFields(),
-        ],
+        },
       },
+      // This collection is retained although not really used currently
       {
         format: "md",
         label: "Videos",
@@ -101,17 +108,15 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+        fields: video__elsewhere_Fields(),
+        ui: {
+          filename: {
+            readonly: true,
+            slugify,
           },
-          ...video__elsewhere_Fields(),
-        ],
+        },
       },
+      // This collection is retained although not really used currently
       {
         format: "md",
         label: "Misc",
@@ -120,16 +125,13 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+        fields: misc__elsewhere_Fields(),
+        ui: {
+          filename: {
+            readonly: true,
+            slugify,
           },
-          ...misc__elsewhere_Fields(),
-        ],
+        },
       },
     ],
   },

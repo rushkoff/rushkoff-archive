@@ -1,61 +1,39 @@
-import * as React from "react";
 import type { TinaField } from "tinacms";
 export function articleFields() {
   return [
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Title",
+      isTitle: true,
       required: true,
     },
     {
       type: "string",
       name: "subtitle",
-      label: "subtitle",
+      label: "Subtitle",
     },
     {
       type: "image",
       name: "image",
-      label: "image",
+      description: "An optional image to put at the head of the article",      
+      label: "Image",
     },
     {
-      type: "datetime",
-      name: "date",
-      label: "date",
-      required: true,
+      type: "string",
+      name: "image_desc",
+      description: "An optional description of the image for screen readers",
+      label: "Image Description",
     },
     {
       type: "reference",
       name: "publication",
-      label: "publication",
+      label: "Publication",
       collections: ["publications"],
       required: true,
-    },
-    {
-      type: "string",
-      name: "blurb",
-      label: "blurb",
       ui: {
-        component: "textarea",
+        optionComponent: (props) => props.title,
       },
-    },
-    {
-      type: "string",
-      name: "notes",
-      label: "notes",
-      ui: {
-        component: "textarea",
-      },
-    },
-    {
-      type: "string",
-      name: "refs",
-      label: "refs",
-    },
-    {
-      type: "string",
-      name: "sources",
-      label: "sources",
     },
     {
       // Ideally this would be a list of references to the categories
@@ -65,8 +43,9 @@ export function articleFields() {
       // Therefore, we hack this by hardwiring a list of strings which will work,
       // so long as the categories aren't changed!
       type: "string",
-      label: "categories",
+      label: "Categories",
       name: "categories",
+      description: "Which category, if any, to include this article in. Categories essentially a hardwired list at present.",
       list: true,
       options: [
         { value: "_categories/book-chapters.md", label: "Book Chapters" },
@@ -75,6 +54,31 @@ export function articleFields() {
         { value: "_categories/scholarship.md", label: "Scholarship" },
       ]
     },
+    {
+      type: "datetime",
+      name: "date",
+      label: "Date",
+      description: "The publication date. Articles are shown in order of this by default.",
+      required: true,
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body",
+      isBody: true,
+    },
+    {
+      type: "rich-text",
+      name: "blurb",
+      description: "Optional short description. Currently not shown on the website.",
+      label: "Blurb",
+    },
+    {
+      type: "rich-text",
+      name: "notes",
+      description: "Optional free-form notes. Currently not shown on the website.",
+      label: "Notes",
+    },
   ] as TinaField[];
 }
 export function categoryFields() {
@@ -82,43 +86,16 @@ export function categoryFields() {
     {
       type: "string",
       name: "title",
-      label: "title",
-      required: true,
-    },
-  ] as TinaField[];
-}
-export function misc__elsewhere_Fields() {
-  return [
-    {
-      type: "string",
-      name: "title",
-      label: "title",
+      label: "Title",
+      isTitle: true,
       required: true,
     },
     {
-      type: "image",
-      name: "image",
-      label: "image",
-    },
-    {
-      type: "datetime",
-      name: "date",
-      label: "date",
-      required: true,
-    },
-    {
-      type: "string",
-      name: "notes",
-      label: "notes",
-      ui: {
-        component: "textarea",
-      },
-    },
-    {
-      type: "string",
-      name: "categories",
-      label: "categories",
-      list: true,
+      type: "rich-text",
+      name: "body",
+      label: "Body",
+      description: "Describe the category here.",
+      isBody: true,
     },
   ] as TinaField[];
 }
@@ -127,13 +104,62 @@ export function publicationFields() {
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Title",
+      isTitle: true,
       required: true,
     },
     {
       type: "string",
       name: "url",
-      label: "url",
+      description: "An optional URL to link the publication title to",
+      label: "Url",
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body",
+      description: "Describe the publication here",
+      isBody: true,
+    },
+  ] as TinaField[];
+}
+export function misc__elsewhere_Fields() {
+  return [
+    {
+      type: "string",
+      name: "title",
+      label: "Title",
+      isTitle: true,
+      required: true,
+    },
+    {
+      type: "image",
+      name: "image",
+      label: "Image",
+    },
+    {
+      type: "datetime",
+      name: "date",
+      label: "Date",
+      required: true,
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body",
+      description: "Describe the content here",
+      isBody: true,
+    },
+    {
+      type: "rich-text",
+      name: "notes",
+      label: "Notes",
+    },
+    {
+      type: "string",
+      name: "categories",
+      label: "Categories",
+      list: true,
     },
   ] as TinaField[];
 }
@@ -142,33 +168,38 @@ export function video__elsewhere_Fields() {
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Title",
+      isTitle: true,
       required: true,
     },
     {
       type: "datetime",
       name: "date",
-      label: "date",
+      label: "Date",
       required: true,
     },
     {
       type: "string",
       name: "video_url",
-      label: "video_url",
+      label: "Video_Url",
       required: true,
     },
     {
-      type: "string",
+      type: "rich-text",
+      name: "body",
+      label: "Body",
+      description: "Describe the video here",
+      isBody: true,
+    },
+    {
+      type: "rich-text",
       name: "notes",
-      label: "notes",
-      ui: {
-        component: "textarea",
-      },
+      label: "Notes",
     },
     {
       type: "string",
       name: "categories",
-      label: "categories",
+      label: "Categories",
       list: true,
     },
   ] as TinaField[];
