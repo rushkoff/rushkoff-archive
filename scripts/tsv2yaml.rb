@@ -8,7 +8,7 @@ require 'uri'
 require 'yaml'
 require 'fileutils'
 
-path = 'docs/_articles'
+path = 'import/_articles'
 
 def outputYaml(path)
   slugs = {}

@@ -1,8 +1,7 @@
 #!/bin/env ruby
 
 # Downloads the Rushkoff Archive posts from dataUrl, and outputs as
-# YAML in a directory 'docs/' (which is one of the options GH Pages
-# offers)
+# YAML in a directory 'import/'
 
 require 'json'
 require 'net/http'
@@ -10,7 +9,7 @@ require 'uri'
 require 'yaml'
 require 'fileutils'
 
-path = 'docs/_articles'
+path = 'import/_articles'
 dataUrl = "https://api.archive.rushkoff.com/posts?_limit=-1"
 
 def outputYaml(path, data)
