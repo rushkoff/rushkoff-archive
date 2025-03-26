@@ -19,7 +19,7 @@ Folders within are:
 
 ## For Content Editors:
 
-See [EDITORS.md](./EDITORS.md)
+See [EDITORS.md](./docs/EDITORS.md)
 
 ## For Developers
 
@@ -27,7 +27,7 @@ Developers can clone this repository, and assuming Jekyll and the other prerequi
 
 Pushing changes back to the `master` branch should trigger a site rebuild.
 
-More details in [DEVELOPERS.md](./DEVELOPERS.md).
+More details in [DEVELOPERS.md](./docs/DEVELOPERS.md).
 
 [actions]: https://github.com/rushkoff/rushkoff-archive/actions
 [issues]: https://github.com/rushkoff/rushkoff-archive/issues
