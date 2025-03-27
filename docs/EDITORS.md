@@ -24,6 +24,22 @@ After editing a file, you should include a commit message explaining what was ch
 
 If you don't have write access, you need to ask the maintainers of this project, or submit your changes by cloning the repository, and submitting a pull request (which requires some technical know-how).  Most people who need to be altering the site will already be in contact with the maintainers. But in case not, the best way to contact the maintainers is probably to submit an issue to the GitHub project.
 
+### Bulk download of metadata
+
+The site also packages up CSV files of all the collections, in under the path `/csv/`.
+
+You can load those into a spreadsheet to scan through what metadata Jekyll sees in the front-matter of the articles and other collections. 
+
+Notes:
+- The body is not included, as they tend to be too large to view
+  easily in a spreasheet.
+- `posts.csv` exists because there is a built-in Jekyll collection we
+  don't use but haven't, or can't remove. It's empty
+- Some fields are manufactured by Jekyll: e.g. `draft` is a boolean field
+  which is inserted even if it's not present.
+
+
+
 
 ## Rebuilding the site.
 
