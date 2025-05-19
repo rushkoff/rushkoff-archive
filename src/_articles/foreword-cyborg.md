@@ -1,9 +1,11 @@
 ---
-title: Foreword (Cyborg)
+title: Foreword
 publication: _publications/an-illustrated dictionary of cyborg anthropology.md
 categories:
   - _categories/book-chapters.md
 date: 2014-01-08T05:00:00.000Z
+blurb: ''
+notes: ''
 ---
 
 When I finally met Amber Case - whose writing and experiments I had been following for several years - I felt as if I had at last come in contact with the next iteration of human being. I have been writing about "screenagers" and "digital natives" since the early 90's, and interacting with one form or another of cyberpunk, hacker, or programmer since before even that.
