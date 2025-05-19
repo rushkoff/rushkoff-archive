@@ -1,17 +1,19 @@
 ---
-title: Douglas Rushkoff on Genesis Breyer P-Orridge (1950-2020)
-subtitle: ''
-date: 2020-03-14T00:00:00.000-04:00
-publication: _publications/boingboing.md
-blurb: ''
-notes: Pasted from https://boingboing.net/2020/03/14/douglas-rushkoff-on-genesis-br.html
 refs: ''
 sources: ''
-image: "/uploads/douglas-rushkoff-on-genesis-breyer-p-orridge-1950-2020.jpg"
+title: Douglas Rushkoff on Genesis Breyer P-Orridge (1950-2020)
+subtitle: ''
+image: /uploads/douglas-rushkoff-on-genesis-breyer-p-orridge-1950-2020.jpg
+publication: _publications/the-brooklyn rail.md
 categories:
-- _categories/journalism.md
-
+  - _categories/journalism.md
+date: 2020-03-14T04:00:00.000Z
+blurb: ''
+notes: >
+  Pasted from
+  [https://boingboing.net/2020/03/14/douglas-rushkoff-on-genesis-br.html](https://boingboing.net/2020/03/14/douglas-rushkoff-on-genesis-br.html)
 ---
+
 It was 1993. I was working on my book Media Virus, and about to return home to LA from San Francisco, when Timothy Leary called to ask if I could make room for a "friend in need" who needed a ride. That friend turned out to be Genesis P-Orridge.
 
 I had known of Gen through his music and reputation alone, and was frankly a little afraid to meet him. If the "coyote" boys I knew in the Temple of Psychick Youth were modeling themselves after him, I could only imagine how fierce Gen might be. But when I pulled into the parking garage where we supposed to meet, and saw the diminutive Genesis P-Orridge standing there with his two gorgeous young daughters and all their suitcases, my perception of him changed entirely.
@@ -32,7 +34,7 @@ Of course, Gen turned out to be neither and both – a pandrogyne, breaking sexu
 
 Genesis embarked on the pandrogyne experiment with partner Lady Jaye, originally Miss Jackie, a dominatrix who worked at a dungeon in Manhattan on Lex and 23rd. I remember the day Gen met her. He showed me two huge slices she had gouged in his chest with a razor and smiled, "she gets it." They were married shortly later.
 
-Gen and Jackie were among the few friends who my wife Barbara and I could just go to dinner and be totally _normal_ with. Like perfectly bourgousie couples on a night out. They would often present Barbara with a mod skirt or tiny sweater they found at a vintage store and thought would be "perfect."
+Gen and Jackie were among the few friends who my wife Barbara and I could just go to dinner and be totally *normal* with. Like perfectly bourgousie couples on a night out. They would often present Barbara with a mod skirt or tiny sweater they found at a vintage store and thought would be "perfect."
 
 And they'd have fights – long drawn-out ones where Gen would get fed up with her drug habit, become convinced the relationship was over, and then stay on my extra futon for a few days at a time. But they worked through it, and from the moment they embarked on the pandrogeny project for real, they were like one being. They wouldn't change genders so much as become a complete gender, together.
 
