@@ -1,11 +1,13 @@
 ---
-title: Foreword CHAPEL
+title: Foreword
 publication: >-
   _publications/chapel-perilous the life and thought crimes of robert anton
   wilson.md
 categories:
   - _categories/book-chapters.md
 date: 2024-10-22T04:00:00.000Z
+blurb: ''
+notes: ''
 ---
 
 Never has there been a society in greater need of Robert Anton Wilson than our own, right now.
