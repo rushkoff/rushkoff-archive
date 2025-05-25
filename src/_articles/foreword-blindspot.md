@@ -1,9 +1,11 @@
 ---
-title: Foreword BLINDSPOT
+title: Foreword
 publication: _publications/blind-spot illuminating the hidden value in business.md
 categories:
   - _categories/book-chapters.md
 date: 2016-11-02T04:00:00.000Z
+blurb: ''
+notes: ''
 ---
 
 I normally hate books like this. I don’t want to have a customer experience, much less a brand experience. I can’t bring myself to support any effort to give corporations a human face to match their ill-begotten rights of citizenship and personhood. Companies are enough like people already, and people are becoming far too much like brands themselves.
