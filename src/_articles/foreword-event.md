@@ -1,9 +1,8 @@
 ---
-title: Foreword EVENT
+title: Foreword
 publication: _publications/event-horizon book 1.md
 categories:
   - _categories/book-chapters.md
-  - _categories/scholarship.md
 date: 2005-05-09T04:00:00.000Z
 blurb: ''
 notes: >
