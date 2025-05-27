@@ -1,9 +1,11 @@
 ---
-title: Foreword HOODWINKED
+title: Foreword
 publication: _publications/hoodwinked-how marketers use the same tactics as cults.md
 categories:
   - _categories/book-chapters.md
 date: 2025-02-04T05:00:00.000Z
+blurb: ''
+notes: ''
 ---
 
 What if I told you I had found a book that could, quite literally, change your life?
