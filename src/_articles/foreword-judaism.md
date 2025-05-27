@@ -1,12 +1,13 @@
 ---
-title: Foreword JUDAISM
+title: Foreword
 publication: >-
   _publications/judaism-without tribalism a guide to being a blessing to all the
   peoples of the earth.md
 categories:
   - _categories/book-chapters.md
-  - _categories/fiction-miscellaneous.md
 date: 2022-06-14T04:00:00.000Z
+blurb: ''
+notes: ''
 ---
 
 For many people, I suspect, Judaism without tribalism won't sound like Judaism at all. That's because Judaism-- at least as my friend Rami Shapiro and I understand it-- may best be thought of less as a religion than the way we get over religion.
