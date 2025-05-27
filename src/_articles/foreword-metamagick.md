@@ -1,9 +1,11 @@
 ---
-title: Foreword METAMAGICK
+title: Foreword
 publication: _publications/metamagick-the book of atem.md
 categories:
   - _categories/book-chapters.md
 date: 2008-07-01T04:00:00.000Z
+blurb: ''
+notes: ''
 ---
 
 I DON'T BELIEVE IN TRADITIONAL MAGICK. Nor should you-- especially if you want to learn to practice it.
