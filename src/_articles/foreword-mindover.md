@@ -1,9 +1,10 @@
 ---
-title: Foreword MINDOVER
+title: Foreword
 publication: _publications/mind-over media propaganda education for a digital age.md
 categories:
   - _categories/book-chapters.md
 date: 2020-10-20T04:00:00.000Z
+blurb: ''
 notes: ''
 ---
 
