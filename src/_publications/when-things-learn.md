@@ -1,5 +1,5 @@
 ---
-title: When Things Learn
+title: When Everything Learns
 url: ''
-
 ---
+
