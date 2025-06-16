@@ -1,0 +1,36 @@
+---
+title: 'Pockets of Weird: The Fight Over Reality'
+subtitle: A new Team Human Live with Occult Historian Mitch Horowitz
+image: /uploads/235d36a7-2b82-4475-b464-c124a8df04cb_1456x972.jpg
+image_desc: 'a Jew and an occultist walk into a bar photo credit: Iain Marks'
+publication: _publications/Substack.md
+categories:
+  - _categories/journalism.md
+date: 2024-12-18T05:00:00.000Z
+notes: >
+  [https://rushkoff.substack.com/p/pockets-of-weird-the-fight-over-reality](https://rushkoff.substack.com/p/pockets-of-weird-the-fight-over-reality)
+---
+
+I know a lot of us are upset about this seeming trend toward authoritarianism or oligarchy or - as I see it - technofeudalism. But if you look at the history of Western Civilization, this is actually the norm. Post-war American democracy and Euro-zone cooperation are the aberration. Now, in the sped-up digital media environment, we are reverting to the mean. That’s what AI does, after all. It produces the average response: the most likely answer, given the entire history of answers out there. It’s the opposite of creativity or improvement; it is the reversion to the mean.
+
+And so here we are, going back to feudalism, which is the basis of our civilization. We have been an essentially colonial civilization since the first enclosed farm, since agriculture, really, but definitely since territorial wars, slavery, and resource extraction. It’s what we do - not just with imperial armies, but with basic capitalism. This is our average. Our normal. A digital media environment with algorithms and AIs iterating all that was into what will be, creating predictability on behalf of the investors and billionaires programming this landscape, is going to revert to that mean. It’s basic karma. We run out of places to colonize, so we colonize ourselves.
+
+I, and some of my friends in the 90’s, thought digital technology and the Internet stood a chance of changing some of this. If not changing society wholesale, at least creating pockets of weirdness where other possibilities could be entertained. There was a barrier to entry - learning to use a computer meant learning to program a computer (kind of like learning to read requires a person to learn to write) - so only those with a sense of purpose took the effort to actually learn how to use a modem or type in a subnet mask to get on the Internet. Back then, every USENET group and IRC chat was its own pocket of weirdness — of exceptions to the rule and diversion from the mean. One group debated the homo-eroticism of Star Trek, while another one compared strategies for cultural subversion through sigil magic. The discussions were specific, non-generic, and not mainstream.
+
+These online spaces satisfied the period’s grunge, GenX need to play in ways undigestible by the mainstream. We welcomed the “noobs” for having found us, communicated across differences, and directed people toward the most welcoming communities for their interests. As the Internet became an always-on, mainstream phenomenon, however, it also reverted to the mean. Influencer culture happens at scale. It’s not about finding the bizarre nooks and crannies of weird, but reaching as many people as possible. Hit counts and numbers of followers are all that matter. It is about getting bigger, rather than smaller. Reaching toward the figures, and away from the ground. As a result, it must tend toward the spectacle and brutality of Twitter. The only things we seem to have in common “at scale” are cruelty and nationalism. Polarization and difference writ large.
+
+That’s why the big issue of this past election cycle was immigration. The facts on the ground - a decrease in actual immigration - don’t matter. It’s back to the big, artificial lines that digital, quantized measurements can understand. Yes/no, black/white, American/other. If the distinctions don’t hold, build a wall. That’s our civilization. Subject/object. Colonizer/colonized. Now that it’s amplified by these digital feedback systems, it has zero tolerance for the ambivalent or ambiguous. It’s about boundaries, even though those boundaries don’t really work or exist in the real world.
+
+The artificial boundaries are intrinsically violent constructions. You’re a baby born on this side of the line and you’re entitled to social services. You’re born on that side of the line? You’re out of luck. Think Haiti and Dominican Republic. They’re on the same island, but which side of the imaginary line you’re born on determines what sort of life and opportunities you’re going to have.
+
+The ones and zeroes of the digital map tolerate no error or noise. It’s an auto-tuned reality where everything is on the note or it doesn’t exist. Never mind that James Brown reaching up to that note is where we find the soul of the music. In the world of digital figures, that expression of the human soul — that stuff between the official notes — is noise. In the landscape of 1’s and 0’s, there is no weirdness, no “in-between.” But that liminal zone is the wiggle room, the give, on which culture or even life depend. It’s the interstitial place where magic happens. It is subtle, familiar, and decidedly NOT the “mean.”
+
+In order to make room for this weird, this liminal zone of possibility, we need to get off the grid-like map of quantized utility and grow a culture instead. We do this together by forming clusters of human weirdness; groups of people with varying forms of space, voltage, and potential between them. We need a cohort, a rabble…what Jews call a havera, or witches call a coven. It’s the collective aspiration of the Team Human podcast, and the CX collective where we are now recording our live events.
+
+What are the precursors to such shared moments in culture? How do we create the set and setting for such a cluster of weirdness? What allows for such a layer to form? How do we create the conditions for tide pools in a world where only rivers seem to flow?
+
+To help me answer this question, I invited my friend, occult historian Mitch Horowitz, to join me for a Team Human Live in Soho, NYC, last week. You can listen to the episode at [this link](https://www.teamhuman.fm/episodes/305-mitch-horowitz-occultism-and-the-fight-for-reality). He offered some surprising insights, including the need to look at the “other” side and people “not like us” for clues.
+
+Paying Substack subscribers can hear the ad-free version below the line at the end of this post.
+
+About Mitch Horowitz: One of today’s most acclaimed voices of esoterica, mysticism, and the unexplained, [Mitch Horowitz](https://www.mitchhorowitz.com/) hosts Discovery/HBO’s Alien Encounters: Fact or Fiction (2024), SpectreVision’s new podcast, Extraordinary Evidence: ESP Is Real, and plays himself in Shudder’s V/H/S/BEYOND (2024). A PEN Award-winning historian with bylines in The New York Times, The Washington Post, and The Wall Street Journal, Mitch has appeared on CBS Sunday Morning, Dateline NBC, NPR’s All Things Considered, and throughout national media. A former vice-president at Penguin Random House, Mitch is the author of books including Occult America, The Miracle Club, Daydream Believer, Modern Occultism, and the forthcoming Practical Magick. His work is censored in China.
