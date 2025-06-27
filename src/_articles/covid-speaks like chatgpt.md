@@ -1,0 +1,43 @@
+---
+title: Covid Speaks like ChatGPT
+subtitle: >-
+  What I’m Learning from Covid about the Internet and other Synthetic
+  Experiences.
+publication: _publications/Substack.md
+categories:
+  - _categories/journalism.md
+date: 2024-01-03T05:00:00.000Z
+blurb: >
+  We seem to be accepting the net as a substitute for that more organic
+  connection we know we have but can’t quite put a metric on
+notes: >
+  [https://rushkoff.substack.com/p/covid-speaks-like-chatgpt](https://rushkoff.substack.com/p/covid-speaks-like-chatgpt)
+---
+
+I got Covid this week. Likely on my way back from Japan. US immigration at JFK was a zoo, and I stood in there for nearly an hour packed against other people with supposedly expedited “Global Entry” privileges. Yes, I gave Homeland Security my retinal scans in perpetuity and all I have to show for it is a case of this weird virus. 
+
+And not to be conspiratorial, but this virus is weird. I had decided to follow my good mate [Tyson Yunkaporta’s advice](https://podcasters.spotify.com/pod/show/tyson-yunkaporta/episodes/Indigenous-Covid-Narratives-e1drp77), and use the occasion of this infection to listen to what information the virus may have for us. So instead of completely resisting this awful feeling, I laid down in bed and let it take me over. I just let it spread through me the same way I might surrender to a psychedelic drug if I found out someone had spiked my tea with a few hits of mescaline. 
+
+But as I let myself feel the essence of this thing move through me, I got the strong sensation that this virus is not right. I’ve been all sorts of sick before — bacterial, viral, auto-immune, injury, trauma, even violation — but this feels, as its name suggests, novel. Or spikey. Palpably synthetic. If the flu could be likened to a vinyl LP, and a cold to a 45 single, Covid is more like an early CD or under-sampled MP3. Discontinuous, plastic, alien. Not indigenous. 
+
+Even if this is all in my imagination, some fantasy provoked by a combination of fever and fake news, the metaphor fits what I believe to be one of our core problematic tendencies right now, which is to substitute abstracted, digital metrics for on-the-ground, organic and analog sensibilities. We are mistaking the synthetic for the real, and doing it across some truly important features of our society. 
+
+I’ve been thinking about this since I was a kid, before anything digital entered into the picture. My grandfather — the one we called the “rich one”—went into the textile business. He came to New York from Romania by himself when he was around 12 and sold rags from a streetcart for a couple of years when he met a guy who was manufacturing a new, synthetic form of silk (eventually called rayon). My grandpa got a bunch, and sold the rayon at silk prices. No one noticed the difference, and he earned enough money to open up a shop and eventually bring the rest of his family to the US. His shameful business practice aside (he was only 14 when he foisted the counterfeit fabric, and assured me he never mislabeled merchandise after that), I remember wondering why people couldn’t tell the difference between the real and the synthetic. They had such distinctly different properties between the fingers. He told me people liked the rayon better. With no awareness that an artificial fabric was even a possibility, they concluded it was actually a higher quality form of silk. 
+
+Today in our digital media environment, it seems as if the synthetic has also been embraced as superior, universal, and infinitely more scalable than the organic. Or at the very least, interchangeable. And this may be a dangerous distinction to miss. I don’t just mean that people should listen to analog music instead of MP3s, or eat organic potatoes instead of GMOs (although maybe they should), but that we confuse digital phenomena with real life at our own peril. 
+
+I remember back in the 1990s when my favorite tech enthusiasts thought that the internet would help human beings serve nature. We had all read (or at least heard about) James Lovelock’s book Gaia, which posited that the whole planet was a single living being. Building on that idea, it seemed to many as if the internet would be the network that finally wired up all the human beings into a collective brain. The wires would extend our nervous systems into one another. 
+
+I recall being both excited and cynical about this at the time. Excited that people were imagining themselves as a collective entity; cynical that they thought the wires would literally implement this new state of being. I remember trying to bridge the gap in one of my books of the nineties, by offering that perhaps the internet could serve as practice for a more connected form of consciousness. Our wires, bulletin boards, and the social problems and challenges to privacy they created would give us a way to develop the new sensibilities that would be required of us if we ever wanted to truly share our head and heart space together. The net would be a safe, dry, technical way of practicing and imitating an as-yet unrealized ability that was actually innate, organic, and unfolding.
+
+But we seem to be accepting the net as a substitute for that more organic connection we know we have but can’t quite put a metric on. Maybe it has something to do with mirror neurons or oxytocin; what happens in the eye contact between a mother and baby; the [polyvagal theory](https://www.sciencedirect.com/science/article/pii/S2666497621000436) of Stephen Porges suggesting we exist in a shared neurophysiological substrate; or the mycellial networks of mushrooms, connecting not just one fungal species to another but all species in a shared ecology of nutrition, information, and — dare we say it — compassion. It’s the mushroom networks that taught trees how to grow roots and how to share with their neighbors, and coaxed many a human to see all life as interconnected and animated by a communal life force, breath, prana, or chi. 
+
+Indeed, anyone who has experienced psilocybin has at least suspected that mycellial strands connect us in ways that digital networks never can. I recently did a guided journey with two therapists simply holding space for me as I went through the experience. And I became keenly aware of their nervous systems in the room with me. It was as if the mycelial strands branching through me were extending into them, as well. I felt as though I was reaching right up into their nervous systems — and I found out things about them in the process that I simply couldn’t have known. I told them later, and it was an episode of the Long Island Medium. Even the metaphor I used to describe one of them turned out to be the very same metaphor she uses to describe herself. 
+
+But more important, it made it clear to me that there was a very real, organic connection between us. I could feel their nervous systems metabolizing my own stuff, my own past traumas and experiences, simply by being present and bearing witness. It was as if the mushrooms were teaching us how to metabolize things — which is what they do in the physical world, metabolizing anything carbon. 
+
+And it reminded me of my experiences sitting with people as they’ve died. They were in comas, or past the point of being able to speak or signal anything, if they were even conscious. But somehow I felt that my presence there, my simply bearing witness was helping in a real way. Just being an extra nervous system, or an extra soul present in physical space, was a profound service and honor at the same time. 
+
+Nervous systems and mycelial strands are different from the net. Digital networks can transmit only data, things that can be reduced to some ones and zeros, even if they are reconstituted as music or graphics on the other side of the transmission. When we’re on Facebook, Twitter, or Zoom and FaceTime for that matter, the subtle, physical nature of our exchanges is lost. The aura. Expecting it to be there, expecting the transmission to contain the essential, organic quality of looking into a lover’s eyes, holding a child’s hand, or even just sitting silently in the same room as another person, is not just futile but frustrating. Compassion, as well as the way it metabolizes pain, is decidedly analog.
+
+Our online connectivity is not characterized by the pranic interplay of minds, bodies or souls in a shared dimension, but the exchange of dematerialized symbols passing through nodes. This is why the quality of our exchanges tend toward the ideological, the binary, and the differentiating instead of the spiritual, compassionate, or integrating. Worse, these biases migrate into our offline behavior as well.
