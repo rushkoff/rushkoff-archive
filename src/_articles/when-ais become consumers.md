@@ -1,0 +1,64 @@
+---
+title: When AIs become consumers
+subtitle: 'Or, why life after capitalism doesn’t have to suck for humans.'
+image: /uploads/p-91445184-when-AI-becomes-the-consumer.webp
+image_desc: '[Source Image: Freepik]'
+publication: _publications/fast-company.md
+categories:
+  - _categories/journalism.md
+date: 2025-11-23T05:00:00.000Z
+notes: >
+  [https://www.fastcompany.com/91445184/ai-become-consumers](https://www.fastcompany.com/91445184/ai-become-consumers)
+---
+
+As best I can tell, the über-wealthy believe the world as we know it is ending, that there won’t be enough to go around, and that this means they need to accumulate as much money and land as possible in order to position themselves for the end of days. 
+
+The way they do that is with an induced form of “disaster capitalism,” where they intentionally crash the economy in order to have some control over what remains. So the function of [tariffs](https://www.fastcompany.com/section/tariffs), for example, is to bankrupt businesses or even public services in order to privatize and then control them. Stall imports, put the ports out of business, and then let a sovereign wealth fund purchase the ports. Or as is happening right now: Use tariffs to bankrupt soybean farmers, who have to foreclose on their farms so that a private equity firm can purchase the farmland as a distressed asset, then [hire](https://www.fastcompany.com/section/hiring) the farmers who used to own and work that land as sharecroppers. 
+
+The über-wealthy, in collaboration with the current White House administration, are engaged in a controlled demolition of this civilization because they realize the pyramid is collapsing and they don’t have faith that there will be enough left to feed and house everyone. The best they can do is earn a ton of money, buy a lot of land, control an army, and get people accustomed to seeing that army deployed. That’s what we’re watching on TV and on our city streets.
+
+It’s no coincidence that [AI](https://www.fastcompany.com/section/artificial-intelligence) is emerging at this same moment in our civilization’s history. As [Lewis Mumford](https://en.wikipedia.org/wiki/Technics_and_Civilization) observed, new technologies are often less the cause of societal changes than they are the result. Culture is like a standing wave, creating a vacuum or readiness for a new medium or technology. If we really are at the end of capitalism—the end of this 800- or 900-year process of abstraction, exploitation, and colonialism—then we would also, necessarily, be at the end of the era of employment. I will get to why I think that may ultimately be a good thing, but let’s go through the scenario that’s running through everyone’s heads right now, and then find our way through to what I think are better days. 
+
+## The spreadsheet people
+
+Yes, AI is coming for our jobs. Not the super-creative ones, or the high-touch human ones, but the ones that maintain administrative control over everything. The majority of your jobs, dear Fast Company readers. All the people in the mortgage departments, the insurance companies . . . the spreadsheet people, the PowerPoint people. Doomers say it’s 90% of jobs, but let’s say it’s just half of office jobs taken by AIs and, of course, blue-collar jobs taken by robots. 
+
+The problem with that, from a business perspective, is if you have no employees earning money out there in the world, then who will be your consumers? Even Henry Ford, despite his enthusiasm for fascism, understood that workers commoditized by his own assembly lines still needed to earn enough money to buy a Ford car. But how are AI billionaires going to continue to make money if there are no gainfully employed people capable of buying AI services from them—or at least buying products from the companies that do purchase AI services?
+
+And this is the weird part; in their vision, it won’t be by selling products to people, but selling stuff to the AIs themselves. It’s a tricky idea, but once you wrap your head around it, it all makes perverse sense. In today’s economy, a small number of wealthy people and corporations employ us and sell to us. They don’t really need to care what species we are, or whether we are human or android, as long as we are producing value for their companies and then purchasing products from them. 
+
+We already see how AIs can replace us as workers. But how could AIs also become the new population of consumers? They don’t have time off to spend money. What do AIs need? To do their jobs better. 
+
+## The humans don’t matter
+
+Instead of retailers selling food and clothes and entertainment to human consumers, tech companies will be selling energy, memory, network access, and processing power to the AIs so that they succeed in their jobs working as agent contractors for other corporations. The AIs will earn crypto for completing their agentic tasks, and then spend it with technology companies who provide them the resources they need to function. 
+
+As far as the owners of the companies are concerned, there’s no difference between a population of human employees with whom you have no contact and a population of artificial employees with whom you have no contact. The only game that matters is the competition with the other big companies for the agents’ business. The humans don’t matter.
+
+So, assuming this tech-bro dream comes true, we end up with a small elite of big-business owners living in luxury with a small number of human servants, and a huge population of AIs doing the work and consumption. And, of course, in their vision for how this plays out, the rest of us humans become so disenfranchised—especially the ones who live in cities—that we will need to be kept under control until we presumably die out. We are simply not needed. 
+
+## The good news
+
+Sounds like a nightmare for most of us, but it also offers clues to an emancipatory vision for the end of employment. So let’s consider that good option: For close to 1,000 years, growth-based capitalism has depended on real human beings doing work while a small elite extracted value from that work at ever greater degrees of leverage. In order to get that leverage, capitalism abstracted again and again and again. Each level of abstraction further removed from the people and places actually providing or creating the value. There’s a mineral in the ground. There’s a company mining the mineral, and another company selling the mineral. There’s yet another company investing in the company selling the mineral, there’s a stock company leveraging that investment, there’s a derivative on the stock, and a derivative on the derivative, and a platform trading the derivatives, and so on. 
+
+Or, more simply, there’s a person who needs to live in a house, but they just rent from someone who owns the house. That’s called the “rentier.” But the rentier has a mortgage on the house, and pays up to the bank, which pays up to another investor that owns the security, and so on and so on.
+
+That’s the pyramid of capitalism, with each investor or participant trying to move further up and away from the mineral or labor or living person into the abstraction of pure financial instruments. And this pyramid has simply grown too top-heavy to support itself. There’s only so much one can leverage up there before it comes tumbling down. 
+
+## Total abstraction
+
+AI, at least theoretically in the minds of crazy tech billionaires who believe AGI is genuinely around the corner, allows them to move on from the employment, exploitation, and colonialism of people, and simply “level up” in what they believe is a simulation anyway. We humans are discarded as capitalism moves up into a layer of total abstraction. It becomes the video game it was destined to become, with the “humans” replaced by non-player characters represented by digital icons or NFTs instead of flesh-and-blood mammals. 
+
+Our real-world economy only had so much stuff anyway. We matter-based entities can’t scale as much as they need, so they leave us behind while they move into a layer of total and absolute abstraction. They live in a realm made entirely of digital representations, themselves manufactured by digital agents in exchange for digital currencies. It works because at least the AI agents value that crypto as much as the billionaires need them too. Instead of just 9 billion human customers, they get trillions of AI customers. We are not required. 
+
+But this is a good thing. It’s akin to an enslaved population being released by the owners who no longer have use for them. We were not born to be their employees. As I’ve explained in [some of my books](https://www.amazon.com/Throwing-Rocks-Google-Bus-Prosperity/dp/014313129X?tag=wwwfccom-20), the whole concept of “employment” was invented as a way of preventing us from getting wealthy. In the late Middle Ages, right before this capitalism was invented, people in Europe were starting to do really well. They learned how to make and trade stuff at local markets. They were doing so well that people were only working two or three days a week, and got taller than at any time until the 1980s.
+
+That’s when the aristocracy came up with the idea of a chartered monopoly, and made it illegal for people to be in business for themselves. They had to become “employees” of one of the chartered companies, or face a penalty of death. That’s when we started working for companies instead of ourselves, and ended up in an economy built to favor those monopolies over small businesses. 
+
+## A moment of transition
+
+So the end of this scheme is not necessarily a bad thing. We simply have to return to the real economy that isn’t worth capitalism’s attention. Human commodities like food and housing are no longer asset classes worthy of their time, so there’s no point in making growth-based markets for them. We can instead look at them as the commons-based resources they are—optimize for distributed flourishing instead of extraction and profit. 
+
+Yes, there will still be competition for energy. The AI economy would probably end up needing a bunch of nuclear power plants and better ways of dealing with all those spent fuel rods (if any of that AI scenario even becomes a reality). The current state of the technology doesn’t fill me with hope for much more than a fierce market correction. 
+
+To me, it’s less important whether it happens than that we take advantage of this moment of transition. The ultra-rich have accepted the end of capitalism—or at least the end of capitalism that depends on human labor and consumption for its survival. So it’s time we accept we are no longer valuable to the capitalist extraction machine and begin to look instead at how we are valuable to one another. 
