@@ -1,17 +1,18 @@
 ---
-publication: _publications/painful-but-fabulous-the-life-and-art-of-genesis-p-orridge.md
+refs: ''
+sources: ''
 title: Good Trip or Bad Trip? The Art and Heart of Genesis P-Orridge
 subtitle: ''
 image: ''
-date: 2003-01-06T00:00:00.000-05:00
-blurb: ''
-notes: Date from Amazon
-refs: ''
-sources: ''
+publication: _publications/painful-but-fabulous-the-life-and-art-of-genesis-p-orridge.md
 categories:
-- _categories/book-chapters.md
-
+  - _categories/book-chapters.md
+date: 2003-01-06T05:00:00.000Z
+blurb: ''
+notes: |
+  Date from Amazon
 ---
+
 Genesis P-Orridge's work defies objective analysis. So I won't even pretend that this little essay can accurately summarize or, dare I say it, codify his varied adventures in music, literature, art, magick, cultural engineering, and performance. Genesis's expressions are characterized, at least in part, by a breaking of conventional boundaries, a challenging of expectations, and a blurring of the usually polarized relationship between artist and spectator, performer and audience. To speak about Genesis's work is to speak the way a person projects oneself onto his work. Nothing more.
 
 But if one man's experience of Genesis P-Orridge can serve to illustrate something about the shape of Genesis's intention--much in the way the tire treads across one's chest can be used to infer something about the car and driver that ran him over--then let me be of service. I have been impacted by this man, and I've lived to tell about it.
@@ -34,7 +35,7 @@ Understandably, young Genesis developed a worldview that saw power as a kind of 
 
 But maybe not the language.
 
-Why were words like fuck so forbidden? What threat did they pose? Where did all these words we speak come from, anyway? Does anybody even remember that _good-bye_ means "God be with ye"? How much else is going on in the language we use--in the language we are taught not to violate? When was all this agreed upon, and by whom, and for what purpose?
+Why were words like fuck so forbidden? What threat did they pose? Where did all these words we speak come from, anyway? Does anybody even remember that *good-bye* means "God be with ye"? How much else is going on in the language we use--in the language we are taught not to violate? When was all this agreed upon, and by whom, and for what purpose?
 
 To Genesis, Burroughs's cut-and-paste process was not simply psychedelic beatnik art. It was revolution. To deconstruct the language of the establishment is the first step towards appropriation. Whose language is this, anyway? Why are we speaking "King's English"?--especially if it benefits only a bunch of sick, rich fucks who flush your head down the toilet?
 
@@ -58,7 +59,7 @@ Throbbing Gristle and, eventually, its successor, Psychic TV, generated a fan ba
 
 By introducing so-called "modern primitive" aesthetics to the body ornamentation and dress of what had by then become the Industrial Movement, Genesis gave his audiences a chance to participate in forms of personal re-engineering they had formerly never thought possible. No, piercing one's nose or genitals in itself may not hold any innate magical power, but breaking one's own preconditioned aversion to body modification may just reprogram one's passive relationship to circumstance and existing power structures.
 
-Genesis led the way, his own body a canvas and bisexual sigil. His multiply pierced genitals and deeply scarred and tattooed arms and chest served as ample evidence of his commitment to make the seemingly inviolable into plastic. He broke unquestioned sacred truths in order to reclaim that which was truly and individually sacred. And thousands followed suit. (Yes, from Throbbing Gristle right through to _21 Jump Street_, Genesis was responsible for the emergence of body modification in counter and then popular culture.)
+Genesis led the way, his own body a canvas and bisexual sigil. His multiply pierced genitals and deeply scarred and tattooed arms and chest served as ample evidence of his commitment to make the seemingly inviolable into plastic. He broke unquestioned sacred truths in order to reclaim that which was truly and individually sacred. And thousands followed suit. (Yes, from Throbbing Gristle right through to *21 Jump Street*, Genesis was responsible for the emergence of body modification in counter and then popular culture.)
 
 His open invitation for anyone to join him in this re-appropriation power, by any means necessary, led to unexpected results. Psychic TV's "fan club," Thee Temple Ov Psychic Youth, despite being anti-hierarchical became something of a cult. It turned out that many young people, having disengaged from the official parent figures of their childhood, now felt the need to project a kind of parental authority onto Genesis.
 
@@ -111,15 +112,3 @@ Late one night, in a particularly distressed and abstract moment, I shared with 
 I feared for an instant I had confessed my vulnerability to a man who had the power to abuse me, if he wished. But I had lost my bearings, and Gen had no doubt once been right here, himself. I needed context from somewhere. Anywhere. The boundaries were all broken. What was up and what was down? Where did good and evil fit?
 
 "Well, Douglas," he said in a deep, even tone. "There's something I remind myself of at times like this: The only good trip, is a bad trip."
-
-It's impossible to evaluate the art of Genesis P-Orridge by simply looking at one field of activity, one set of tools. He is one of those rare artists whose entire life and career is one great, evolving artwork, and the specific activities but parts thereof.
-
-In essence, Genesis P-Orridge is a thinking man, a thinking artist, a philosopher. Although in many ways technically intuitive and often willing to cooperate with others, the spark is always a single, defined P-Orridgean idea--a reflection or an impression he feels a need to filter through and, most important of all, to recreate, to reshape. A thought most often takes shape through words, and it was in and through words he started out on his expressive and, one should add, impressively productive journey.
-
-A tender teenage poet steeped in romantic fantasies about the artist's way of life, P-Orridge contributed to poetry contests and small publications. While at the University of Hull, the fields of romance expanded and, slowly but surely, some kind of general vocation grabbed hold of his creative essence. Together with friends, he actively embraced the lifestyle he'd dreamt about. They lived in freedom, in a freedom of impression and expression, and with a will to evolve by trial and error. Poor perhaps, but still free to define and refine themselves daily.
-
-Spontaneous peformances, mail art, collages, and redefinitions of sels of art history took P-Orridge on to new levels of realisation. The greatest realisation was never the manifestations per se, but rather the curious effects they had. All of a sudden things began to happen. There was an interest in his work and in his person. The synchronistic revelations dawned upon him at about the same time as an active interest in esotericism and magic did. He read and studied material on occultism all through his youth and was fascinated not so much by the lure and romance of medieval magicians, cloaked in robes and waving wands, as by the apparent changing ability the human mind and activities actually have.
-
-In P-Orridge's mind, it wasn't enough to just work with self expression through various kinds of interesting media, as did other emerging artists around him. The Art in itself had to also be in touch with a higher essence, a sense of worth that transcends the current market value on the art scene. Without having fully realised it at the time, Genesis P-Orridge had formulated his vision, his quest, as pursuing a path of talismanic and transcendental art.
-
-In synthesis, the esoteric awareness and the realisation that art can actually cause change, made P-Orridge focus more on collage work. He applied on photos from newspapers and weeklies the cut-up methods his mentors William Burroughs and Brion Gysin applied on writing and painting, respectively. With inexpensive materials readily at hand, P-Orridge started constructing and deconstructing his own graphic universe, often sending the results out to friends as "mail art."
