@@ -1,0 +1,114 @@
+---
+title: My Dinner with Jeffrey
+subtitle: What the Epstein Files Reveal About Us All
+publication: _publications/Substack.md
+categories:
+  - _categories/journalism.md
+date: 2026-02-26T05:00:00.000Z
+notes: |
+  [https://rushkoff.substack.com/p/my-dinner-with-jeffrey](https://rushkoff.substack.com/p/my-dinner-with-jeffrey)
+---
+
+I got a text from my daughter last week asking, “um…so why are you in the Epstein files?”
+
+Cut to the chase, my name is in the CC field of emails from my former literary agent, who used to publish an online journal in which a bunch of scientists and thinkers would answer questions about the future. Like, “what should we really be worried about?” or “what scientific concept would improve everyone’s cognitive toolkit?” The agent would start by sending the question to a group of maybe thirty of us — people from Brian Eno, Cory Doctorow, and me to Jared Diamond, Sam Harris, Jonathan Haidt, and also Marvin Minsky, Sergei Brin, Bill Gates, Jeff Bezos and (as we can plainly see now twenty five years later) right there in same CC section with the other fifty names…Jeffrey Epstein.
+
+It’s not that we were supposed to “reply all” with our answers to the whole group. It’s more that the cc field of big names was there to help us all know that this was an impressive group of people with whom to be participating. It’s that sense of reputational power, and what we might compromise in order to get close to it, that characterizes my own brief brush with this crowd. I told some of this story in my book Survival of the Richest, but there was more context to it all that didn’t really fit in that book, so let me share it here.
+
+What I’m hoping to show is that while there may be something like true evil in an Epstein or a Trump or a Ghislaine Maxwell, it may be too easy to simply alienate ourselves from them as if they were a different species. Certainly, the hundreds of men and even a few women who partook of the rape, torture, and apparent killings in Epstein’s world did not act like we would — but they may have been acting in ways that we could.
+
+I’m thinking more along the lines of Hanna Arendt’s book Eichmann in Jerusalem: A Report on the Banality of Evil, that great atrocities are not committed by fanatical monsters, but ordinary people conforming to a system. She was referring to the unquestioning obedience to authority in Nazi Germany, such as soldiers following orders. But there’s another kind of obedience to a social order, or a permission structure that allows for people to do things that they know are wrong, but are still compelling on some other level. By calling Epstein and his conspirators purely evil, as if they were a different species of human altogether, we risk repressing the function of the inner voices and sensations in ourselves that keep us from surrendering to our own baser natures.
+
+So, here’s my tale: I got invited to my first real New York scientist-philosopher grown-ups dinner party in the mid-90s, right around the time my first books were coming out. I was the kid in the room, the newcomer, who happened know about this new fad called the Internet. I was both scared of these people, and probably looking to challenge them a bit. Get them to remember me.
+
+I don’t remember everyone who was there, but I distinctly remember Richard Dawkins sitting on a couch, — guest of honor — folding one of those little origami fortune teller things, then holding it up and saying “this is a meme.” He meant that the instructions for making one of those get passed around, like code, and then someone somewhere actually makes one. The people, he explained, are just carriers for the meme. We execute its instructions, like an organism following its genetic code or a computer running some lines of Python.
+
+It didn’t make sense to me. My own book on viral media (Media Virus) was based on very different observations about our relationship to memes. For me, memes were just the code within media viruses, and better understood as “hidden agendas in popular culture.” The Rodney King tape may have contained powerful memes about police brutality and race relations, but the reason the tape became a phenomenon was our readiness as human beings. We had repressed this subject for too long, so we were triggered into a national conversation— and even riots— by the images that forced the issue into the light of day. The memes aren’t running us like software runs a computer; we use the memes the same way we use language or our bodies to express ourselves and enact change. We are conscious actors, not passive machines running code. Team Human, right?
+
+Dawkins dismissed my argument as “wishful thinking.” And I was too insecure to press the point. About half an hour later, I hear some ruckus from over where Dawkins had been sitting. Naomi Wolf — author of The Beauty Myth, still quite respected by mainstream intelligentsia at the time, and one of the only women at the party who wasn’t there as a “plus one” — was refusing to submit to Dawkins’ reductive picture of reality.
+
+“You mean there’s absolutely nothing going on here?” she asked. She felt his model of humans functioning like machines left no room for mystery, experience, will - not to mention the possibility of a soul or god. Dawkins and the other name-brand staunch materialist scientists were patronizing, even ridiculing her. The universe is empirical. We are just clusters of organic matter, responding to the illusion of consciousness. Any other frame of reference amounts to superstition or delusion. There’s nothing out there, or even in there.
+
+I don’t know whether I was trying to defend Naomi or make my own mark, but I took a shot. I suggested evolution isn’t random selection, but maybe it’s life reaching toward something. Complexity, consciousness, compassion… We’re not just driven by genes and natural selection. The earliest human beings shared with one another, even when there was no personal benefit.
+
+Dawkins and the others laughed. I was simply misinterpreting “reciprocal altruism.” Any empathy or urge to share is a stimulus generated by our DNA for its own selfish ends. Humans are just vehicles for our genes. Our genes our selfish, and we have no choice but to do as they say.
+
+I tried to argue that scientism - unlike science - was a religion of its own. Great for engineers. But we do not assign meaning to things based on evidence. It’s a socially constructed system built over millennia. Only a community can ground objectivity into any real sense of purpose. Meaning is how we develop a sense of right and wrong. Dawkins and his crew rolled their eyes and laughed. He called me a “moralist.” Like that’s a bad thing.
+
+I didn’t see that crowd again for a few years. Maybe my agent knew better than to invite me to another gathering for a while. But he did. It was a super special elite dinner in New York City, in maybe 1999 or 2000, that would be attended not just by those superstar scientists but by big tech CEOs like Steve Case of AmericaOnline, Jeff Bezos of Amazon bookstore, maybe Bill Gates, and so on.
+
+I wish I could remember which ones were there, or I’d tell you. But I was such a GenXer punk I really didn’t care, or at least acted enough like I didn’t care that I avoided their tables and now I’ve actually forgotten. He invited me “plus one” which, given the cost and exclusivity of the dinner, meant a lot. He was trusting me, I assumed, to bring someone worthy of this crowd of science and tech luminaries.
+
+So I invited the smartest, wittiest person I knew, the brilliant founder of an online literary culture zine. The minute I got through the door, the host grabbed me by the wrist, pulled me aside, and tore into me: “how dare you waste your ‘plus one’ on a lesbian.” Huh? I was stunned. He said “You’re a young writer, you’re supposed to raise the quotient in the room. Why do you think I gave you a plus one? Look around.”
+
+He motioned to some of the tables. Young women, sitting with middle-aged men. There were a few founders with equally beautiful, well-dressed wives, but I understood what he meant. I was an East Village 20-something and was expected bring a hot date to help decorate the party and increase its apparent value. Raise the quotient.
+
+I got really upset that night. I was ethical enough to know this whole scene was deeply fucked up, but young and insecure and ambitious enough to wonder if I was the fucked up one. Is this how guys are supposed to be? Is this why the girls in college seemed to go out with assholes? Is there something…evolutionary that I’m missing here?
+
+Don’t worry. I didn’t fall for any of it. But I did make sense of it pretty quickly: how the belief that “there-is-nothing-going-on-inside-a-human-being” makes it easier to commoditize women in this way, measure a room of human attributes as a marketplace, and assume an almost eugenic understanding of human value and relationships. It was these kinds of experiences that pivoted me from a tech writer to a humanist, looking at how we maintain values in a landscape increasingly dominated by code — and men with these sick values.
+
+So I wasn’t totally surprised 20 years later when I found out who had sponsored that online magazine where all of us scientists and philosophers were emailing our precious thoughts and punditry. Who had paid for that party I’d failed to decorate with the right arm candy?
+
+Jeffrey Epstein. Duh. The same Jeffery Epstein who was funding the revival of eugenics and planned to seed hundreds of women with his own sperm. He had built dormitories for the purpose on his island. And now, photos were surfacing of Epstein and several of his young…escorts..together at a New York City party with tech millionaires and many of the very same scientists were rejecting citizenship in a moral universe as laughably deluded. Another photo showed up on Twitter with Daniel Dennett, Stephen Pinker, and Richard Dawkins himself flying to the TED conference on Epstein’s “Lolita Express.”
+
+Now sure—anyone can end up in the wrong place at the wrong time. But the scientists Epstein chose to hobnob with weren’t selected at random. Their scientistic approach, interpreted through Epstein’s sociopathic lens, dovetailed perfectly with the values of domination and control. These are not thinking humans you are abusing. They are like vegetables. They use the same logic as slave-owners or Conquistadors: those are objects, might makes right, or the DNA made me do it. It’s banality of evil, on techno-scientific steroids.
+
+I’ve traced this lineage of thought before. The way the scientists and engineers made themselves so vulnerable to the logic of the dominator and to the abuse and subjugation of women.
+
+After all, the original premise of empirical science, as articulated by its forefather Francis Bacon, was hardly value-free; it was based on the subordination of nature and women. As he explained to his seventeenth-century benefactor, King James, nature would have to be forcibly penetrated to yield her secrets. “I will bind her to your service and make her your slave,” Bacon explained. “Nature must be taken by the forelock . . . lay hold of her and capture her . . . conquer and subdue her, to shake her to her foundations.” Subject nature to the same sorts of torture as women on trial for witchcraft.
+
+Francis Bacon was to King James what MIT Media Lab scientists were to Jeffrey Epstein. We will use scientific principles to support your domination of women and nature.
+
+Nature was scary, dark, and female— a space of mystery. Empirical science could capture and tame this beastly force, quantifying its properties and rendering it inert. Scientists even joined the witch-burning frenzy. Witches were better healers than blood-letting male surgeons. Killing them got rid of their greatest competition. And acknowledging the power of black magic (even though they didn’t believe it) got them on good terms with the church, which was worried about godless scientific materialism.
+
+They also internalized a chauvinism and disregard for alternative and embodied approaches to making meaning that have limited science to this day. Everything had to be measured in terms of mass, heat or some other metric. The quantification of our world contained and controlled everything that mattered, while ignoring the pesky, undefined aspects of reality that men of science didn’t want to mess with— especially emotions, meaning, ethics…consent?
+
+Empirical science also conveniently separated causes from effects. Things acted upon each other, but were not understood to be in dynamic relationships. Something or someone was either a subject or an object, solute or solvent, predator or prey, man or woman, lord or peasant, master or slave. The further they could separate cause from effect, the less they had to look at what they were doing to whom.
+
+This was perfect for colonialism. Scientific engineers armed the gunships, insulated the powerful from the impacts of their actions, and rationalized an ethos of extraction. This is the legacy of domination and control characterizing too much of the science industry to this day.
+
+It’s how you get a biologist as brilliant as Richard Dawkins reducing the mysterious phenomenon of human consciousness to nothing more than a movie projected for us by our genes. Back at that party, Dawkins said he saw human beings as “survival machines— robot vehicles blindly programmed to preserve the selfish molecules known as genes.”
+
+Dawkins’s model of human-as-hardware, and other anti-human ones of Daniel Dennett or Stephen Pinker, won out in Silicon Valley. Their views were entirely more compatible with business models that depended on manipulating human beings instead of empowering them— exploiting them for profit rather than giving them opportunities for collective creativity. If people were really just passively responding to lines of genetic or cultural code, then why not be the ones writing that code and capitalizing off it?
+
+Jeffrey Epstein liked and funded these scientists because they helped him formulate a picture of the world that gives cover to those who would exploit other human beings: as they see it - “people aren’t really alive or aware— they’re just behaving in service to their genetics. And, if you play your cards right, in service to your genetics.” Yeah, I’m talking you Elon.
+
+The Jeffrey Epstein saga has been as “triggering” for me as anyone. As a theater kid working with grownups in the 70s, I had my fair share of unwanted touching and worse. And through those experiences, I learned what it feels like in your body when you’re not giving consent. It’s unique. It’s different. And it stays with you.
+
+It’s the living human, somatic sensibility that something is wrong here. It’s the feeling I had watching Naomi get ridiculed — just one notch too sadistically — by those scientists. It’s the feeling I had at the Epstein-funded dinner party, when I was told I had brought the wrong kind of “plus one.” I never actually met the man (I didn’t even know who he was or that he’d funded that dinner. This was the mid-90’s before he was famous or even had an island. )
+
+But I could feel what it would mean to submit to the energy of the dinner party he happened to have paid for. Yes, this inner sense is “spiritual, moral”….a delusion, even. But one we depend on not to sink into sociopathic behavior. Even the word - socio path - means socio disease, or a disease of society. If there is no society, no collective meaning — if that’s all delusion — then there is no disease. They don’t get that feeling in their body. Or if they do, they learn to ignore it until it just goes away. Or learn to come in over it - oomph - and convert the vulnerability into control or sadism.
+
+Since the Epstein revelations, I’ve tried to understand the men who did that stuff. Who must have had the same spidey sense in their bellies but then went for it. It’s not that they’re constitutionally more evil than the rest of us. I think Hannah Arendt is right, and that it’s less a matter of having a truly sinister core than living within a power system or maybe “permission structure” that invites people to succumb to their baser natures. Living in our world right now, it could happen to any of us.
+
+They know it’s wrong, but it starts almost innocently. “That young woman is interested you. She’s over 18, and interested in your ideas. Of course she finds you sexy…Ideas are sexy…” Then it gets incrementally more absurd or perverse or illegal or sadistic from there. And any time you question what’s happening…there are rich, important people, politicians, even scientists there telling you it’s okay. It’s okay! We’re not restricted by Puritan values here. Age of consent in Japan was only 13 until a year ago. Ancient Greeks yadda yadda…. This island is “self-sovereign” so the laws…. Look, that’s Alan Dershowitz over there, Prince Andrew over there, and even my pal Noam Chomsky says….
+
+There’s no forgiving. I’m not going there. These are creeps. Rapists and, quite possibly, murderers who — even more triggering to anyone who has been abused — seem to keep getting away with it, while continuing to victimize their prey. In their view and that of the courts, the perpetrators are the victims, whose names must be redacted from the files.
+
+What I am concerned with — what I always seem to be concerned with — is the ground. The de-humanized, hyper-rationalist, sociopathic permission structure condoning the rape of 12-year-old girls is the same permission structure for people to be executed in the street, authoritarian rule, desecration of the natural environment, genocide in the Middle East, slavery in Uighur province…
+
+Because the rape, torture, and humiliation of young women at the hands of the oligarchic sociopaths impacts more than just their immediate victims. Those crimes are heinous enough in their own right. But the inability of their victims to win justice, the apparent ineffectuality of their testimony or the revelation of these crimes to accomplish anything is a public demonstration of the dominators’ power. It is meant to serve as evidence of the impotence of our collective will to act on the victims’ or our own behalf. It tells us that the feeling we have inside — the impulse in our bodies that knows right from wrong, is not worth feeling, hearing or acted upon. That conscience or basic humanity is futile. The violence is their proof and celebration of a cruel, godless world of might makes right. Anything else, is a delusion.
+
+And it all comes back to that argument I supposedly lost to Richard Dawkins about memes. It’s not about the argument, the ideas, or even the memes. Hannah Arendt used to say that no political idea justifies violence. We can take that further. No idea is more important than the comportment or manner in which it is expressed or conveyed. Even if you’re right, if your idea can “win”, how are you going to use it? To humiliate a woman at a party? To earn the approval of cruel men, professional points from peers, or funding from a wealthy patron?
+
+Your memes don’t matter, your genes don’t matter. Nobody cares except you. I promise, as a former “insight junkie” and current professor of media theory, I know the allure of a complex mental construction, from selfish genes to affective altruism. A good one can even get you laid — at least on the right island. As long as it’s an idea that negates the essentially social, mutually negotiated, consent-bound dance of love to which we have all been invited.
+
+To join the dance, you don’t need to bring any idea at all. You don’t need to overcome that warning from inside your belly, because it’s not that kind of party, and it’s not asking you cut yourself off from your inner, felt awareness of how consent, connection, and compassion really work. It’s asking you to open up to it, and let it lead.
+
+That’s because deep down there, way down? That’s not you at all.
+
+That’s Team Human.
+
+If this touched you on some level, please don’t just close the tab.
+
+The best thing you can do right now, for this work, for this community, and for this mission, is become a paying member of[ Team Human on Patreon](http://patreon.com/teamhuman) (where we will be headquartering on all my content). For the cost of a couple of coffees a month, you get ad-free episodes, access to a quarterly webinar where we actually talk, reading lists, resources, the archive of conversations I’ve had with people like Terence McKenna, Timothy Leary, and David Lynch, and a community of people who are done pretending this is all fine.
+
+We don’t have corporate backing. We don’t have an algorithm optimizing us for outrage. We have you. Our team.
+
+👉 Join at patreon.com/teamhuman
+
+And if you watched the video version above, please subscribe to me on YouTube. It’s the simplest thing you can do to help more people find this work.
+
+👉 Subscribe at youtube.com/@douglasrushkoff
+
+Find the others. Tell them where we are.
