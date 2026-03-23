@@ -1,12 +1,13 @@
 ---
-title: Real action starts on the ground.
-subtitle: Real Action Starts from the Ground
+title: Become the Ground
+subtitle: How to build resistance when the other shoe drops
 image: /uploads/photo-1567100847488-6ef096d78be1.jpg
 image_desc: Photo by JJ Shev on Unsplash
 publication: _publications/Substack.md
 categories:
   - _categories/journalism.md
 date: 2026-01-29T05:00:00.000Z
+blurb: ''
 notes: |
   [https://rushkoff.substack.com/p/what-do-we-do-now](https://rushkoff.substack.com/p/what-do-we-do-now)
 ---
