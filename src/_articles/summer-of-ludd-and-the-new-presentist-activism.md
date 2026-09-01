@@ -1,0 +1,135 @@
+---
+title: Summer of Ludd and the New Presentist Activism
+subtitle: When the Means Justify the Ends
+publication: _publications/Substack.md
+categories:
+  - _categories/journalism.md
+date: 2026-07-30T00:00:00.000-04:00
+notes: >
+  Source: [https://rushkoff.substack.com/p/summer-of-ludd-and-the-new-presentist](https://rushkoff.substack.com/p/summer-of-ludd-and-the-new-presentist)
+---
+The Summer of Ludd was in full swing here in New York's East Village last month—a festival for people who are challenging the inevitability of a digital future on the terms of the tech oligarchs, and questioning many of the false promises, as well as the necessary compromises along the way. It's inspiring. Next level. A leaderless movement; or maybe leaderful. Or maybe just taking orders from the Earth itself, in real time. Engaged without a full plan. Trusting in the collective will as it unfolds.
+
+It's a different theory of change.
+
+I've been thinking a lot about that lately—this idea that social change doesn't always need a big plan, top-down leadership, or the mandate to reach "scale." Sometimes, maybe all the time, the appropriateness of any given action can be sussed out in the moment, negotiated in real time, allowed to emerge from the bottom up or the inside out. It can be intuited rather than rationalized or justified.
+
+I had the opportunity to have these sensibilities tested in a format premised on their very opposite. I was invited to do a debate with William MacAskill, the Oxford philosopher who wrote the book on Effective Altruism. I couldn't justify the time and travel to do it, but just thinking about it, conditioning myself for such a thing, generated a lot of reflection.
+
+If you've skipped this particular discourse, Effective Altruism is a moral philosophy that says we should make decisions based on the rational analysis of their future impact rather than our ethics in the moment or some emotional sensibility. We can't see, in the moment, how saving one child from an oncoming bus could cause the bus to fly off a cliff; or saving members of one community under quarantine could risk an epidemic escaping to the world. Its proponents argue that major philanthropic and policy decisions should be guided primarily by formal models and long-term forecasts, rather than by intuitive judgment.
+
+The tech-bros who have adopted and distorted EA into their secular religion believe that if you just get the math right, the messy business of live human presence becomes obsolete. They want a moral framework that functions like a software update—something you can code once, throw on a blockchain or embed it in an AI model, and deploy it globally or even cosmically.
+
+The pattern repeats itself across the digital landscape. Effective Altruism is just utilitarianism reinvented by people who have never encountered philosophers like [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams), who argued that we mustn't lose touch with "the real concerns that animate our ordinary ethical experience," that we can't surrender those real, felt concerns to the arid, ahistorical, second-order debates about ethics in philosophy departments. They don't know from [Derek Parfit](https://en.wikipedia.org/wiki/Derek_Parfit), who agonized over the implications of consequential reasoning, and the way it sacrifices personal loyalties and emotional bonds for the cold logic of collectively beneficial outcomes. It's two centuries of philosophical literature explaining why naive expected-value calculations produce monstrous outcomes when applied without limiting principles. They're ignoring it all.
+
+The EA movement walked itself straight into the Sam Bankman-Fried catastrophe because it adopted a moral framework without understanding its failure modes. (Bankman-Fried, the crypto wunderkind who became EA's primary billionaire benefactor, used the movement's "earn to give" ethos to rationalize a multi-billion-dollar fraud at his FTX exchange. In his hyper-rationalized calculus, treating his customers' life savings as a casino bankroll was a statistically acceptable risk, because any wealth he generated would fund grand, long-termist projects and geo-engineering to save the species from extinction. The way it worked out, however, the pyramid collapsed and real-world lives were wrecked.) It's what happens when you drop out of college to do a startup before you've taken history, economics, or moral philosophy. The billions that these child-men earn convince them that they know something.
+
+The rationalist community rediscovers Bayesian epistemology (degrees of confidence, like a 20% chance of AI wiping out humanity) and treats it like a revelation, unaware that the philosophy of science has been working through these questions since the 1920s. They treat their blog post manifestos as foundational texts. People who have never read Kuhn or Lakatos or Feyerabend construct epistomologies from first principles, marvel at what they've built, and proceed to use them as the intellectual building blocks for decisions that affect billions of people.
+
+They are trapped in the Dunning-Kruger effect—that psychological phenomenon where people with a superficial understanding of a complex field mistake their minuscule experience for total mastery. Because they don't know enough to realize what they are missing, their confidence is inversely proportional to their depth. Effective altruism is Dunning-Kruger at scale, armed with venture capital, supercomputers, artificial intelligence, total surveillance, mind control technology, and rocket ships. What could go wrong?
+
+This intellectual hubris peaks with Longtermism—the philosophical engine of AI acceleration. MacAskill isn't nearly as simplistic as his followers, but his thesis has made him the darling of Silicon Valley, who are happy to fund a real professor from Oxford who helps them justify their escape plans.
+
+They use Effective Altruism to support their belief that we must optimize our resource allocation today for the welfare of hypothetical future beings. Present-day costs are acceptable in service of that goal. The welfare of trillions of post-human life forms should take moral precedence over a couple of billion lower humans today.
+
+It is a framework any competent ethicist can dismantle in an afternoon. It has no limiting principle. It cannot distinguish between genuine moral urgency and the self-serving conclusion that whatever the billionaire tech executive was already doing is existentially important. In practice, it is little more than a program for generating justifications for the concentration of power by people who have decided they are the ones best positioned to steward the future of the species. Even if they're the only surviving representatives.
+
+This desire to outsource life's ethical challenges into accounting tables isn't new. Or malevolent. Some of the greatest social crusaders saw math and engineering as ways of transcending our emotional prejudices and misperceptions. Behavioral economics proved we don't see things as they are, and make bad financial decisions because of our various fears and biases.
+
+Take Karl Marx. He started out like a poet, trying to help people remember and value the social fabric underlying our interactions. Only later on, when he was looking for a way to rescue workers and society from industrial alienation did he get more systematic.
+
+In *Capital*, he used the example of Robinson Crusoe on his island, keeping charts, ledgers, and timetables of his activities, as a model for how a rational society might distribute its labor. He thought if we just got the structural bookkeeping right, justice would follow. But a ledger is still a mechanical abstraction that treats human energy as an input. It may be mathematically fair, but at what social cost?
+
+It happened in religious history, too. Think of the ancient Jewish tradition's well-intentioned but ever-more granular system of laws. There's just too many possible human interactions to write a law for every one. And the more we depend on the labyrinthine network of rules, the more distant we are from the impulse that's supposedly informing them. We argue our case instead of finding new levels of compassion and cooperation. The law proved incapable of engendering the very thing it was designed to protect.
+
+We keep trying to build mechanical, external means of ensuring justice, and we keep failing because these systems are incapable of engendering genuine human compassion or goodwill. Like a blockchain, they substitute for trust rather than inspiring it. And they invite the machinations of those who want to game the system for their own benefit.
+
+That's why the rabbi Hillel, and later Jesus, strove to break through the administrative layer—the executable code—to center something different: embodied, real-time, radical love and presence. They realized that adding more lines to the legal code doesn't get to the core problem. If the heart isn't attuned in the moment, the rules just become a tool for bureaucracy, manipulation, or evasion. Jesus stepped in and said, if you just feel it in here, the rest will follow.
+
+The law, however well-intentioned, is an abstraction. Cause and effect. If this, then that. Nothing in the moment. Computer code doesn't have the moment, either. It only has steps. Like they're not even continuous or part of the same thing. This allows us to surrender anything or anyone on this step, to that next step. Every next moment is like a revolution that leaves the last moment—and any necessary victims—behind. After all, you have to break a few eggs to make a cake. Right? Wrong.
+
+There's a whole century of philosophy on this. It peaked in 1952 when Albert Camus broke with Jean-Paul Sartre and the French left over the same question I'm asking here: Can the people alive today be treated as acceptable casualties in the pursuit of a better future?
+
+Sartre and the Marxists said yes. History has a direction. The revolution requires sacrifice. Camus said no. Any system of thought that subordinates living people to a hypothetical future has already committed the foundational moral error.
+
+Camus understood the existential dilemma: how we're temporary flesh beings on a rock hurtling through cold, meaningless space. But he also knew we couldn't escape this terror by focusing on some theoretical future utopia. You can't utopia your way out of this.
+
+Marx and Sartre believed the revolution would require violence and sacrifice. Camus despised bloody revolutions as wastes of human life in an ends-justifies-the-means travesty. Instead, he championed what he called "the rebel." The rebel isn't a nihilist destroyer or an idealistic mathematician; the rebel is someone who says "no" to oppression in the present because they recognize the inherent dignity in themselves and in the person standing right next to them, right now. Rebellion defends the immediate, messy reality of living people against the abstracted justifications for violence of an inhumane civilization.
+
+Once you accept the logic that future gain justifies present cruelty, there is no limiting principle. Any atrocity becomes permissible. Any amount of present suffering can be rationalized as a necessary input to the glorious, modeled output. A prerequisite for the Messiah. A necessary resource for AGI. Shouldn't one child be allowed to die of thirst today if the data center using her drinking water could save ten children from thirst tomorrow?
+
+That's the AI acceleration argument made plain. The technology will eventually benefit or save humanity altogether, so present disruption must be tolerated. Displaced workers, the death of democracy, destruction of the environment, the concentration of power in a handful of private actors who have exempted themselves from the consequences of their own project—it's all regrettable, but necessary.
+
+Besides, if we don't do it, someone else will. Sam Altman won deregulation of AI by arguing that China would beat us to the punch and take over the world. A startup called Mechanize, looking to enable "the full automation of the economy," says it directly: "The only real choice is whether to hasten this technological revolution ourselves, or wait for others to initiate it in our absence."
+
+If it's inevitable, I'm not responsible. It's technological determinism as moral absolution. The future lets me off the hook for the present.
+
+It's the same argument Marxists made for redistributing peasants' grain or sending dissidents to the gulag. When Sartre and the French left defended the Soviet labor camps, they used the same sort of determinism. History is like a train heading to communism. It requires coal in the form of human sacrifices. If we try to stop the train, we're standing in the way of human evolution. Sound familiar? We're not murderers or apologists so much as the midwives of an inevitable tomorrow.
+
+But Camus staked everything—and lost his existentialist friends—on the claim that the person standing in front of you is not an input to a utility function. Their suffering is not redeemed by a future state of affairs they may never see. Their dignity is not negotiable against projected outcomes.
+
+The person who exists right now—the one who has a job they're about to lose, a family to support, a community that depends on a local economy—is the unit of account. There is no humanity in the abstract. Team Human is actual humans, not an idea. That's not what Elon Musk means when he says "I'm on Team Human." (He's not even a Patreon subscriber.)
+
+The entire AI acceleration project is premised on abandoning the present. It asks real people to bear costs for future benefits distributed to people or post-people who do not yet exist, administered by a self-appointed class of demigods that has insulated itself from the consequences entirely. Even if they're here on earth, they're not living on the same planet.
+
+If we want to resist this top-down engineering, we have to dismantle the very categories that allow it to function. The rationalists rely on lines of demarcation: Now versus Then, Subject versus Object, Us versus Them. They convince us that we can separate the observer from the observed, or that we can sacrifice the present "now" for a superior "later"; an open "if" for an inevitable "then."
+
+But this is an unnecessary and dangerous distinction. All we actually have is the now. The future is imaginary; the past is memory. Morality does not exist in a future state; it occurs exclusively in the immediate, interstitial space between us.
+
+This is why I've been into 17th-century Dutch philosopher [Baruch Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) so much lately. He said that ethics isn't about following rules or predicting consequences; it's about increasing our capacity to affect and be affected by others. For Spinoza, we are all expressions of a single, continuous reality. When we engage in interactions that recognize and enhance the vitality of the other, we increase the collective power of the entire system as well the freedom of all its members. That's the paradox that American libertarians can't grasp. Once we're in a true living system together, we each get more independent power, not less. It is a somatic, real-time feedback loop of mutual flourishing.
+
+[Martin Buber](https://en.wikipedia.org/wiki/Martin_Buber) took this further with the idea of I-Thou relationships. He argued that we spend most of our lives in the I-It mode, treating the world, nature, and other people as objects to be used for our own ends. Like in capitalism, sexual exploitation, Effective Altruism, or AI modeling. The more human path, the sacred human path, is the I-Thou encounter. When we have no agenda, we meet another human being in their total, novel uniqueness. It can only happen between us, in the moment. Unarmored. Face to face.
+
+[Emmanuel Levinas](https://en.wikipedia.org/wiki/Emmanuel_Levinas) anchored his entire philosophy of morality right here, in the epiphany of the human face. Levinas argued that ethics does not begin with an intellectual calculation or a social contract. It begins the moment I look into the face of another human being. The face of the Other carries an absolute, divine demand that says: You shall not abandon me; you shall not destroy me. There's no subject/object anymore. It is interstitial. I do not master the other person with Jedi mind games; I am held hostage by their immediate humanity. This face-to-face encounter is the true source of morality. It cannot be modeled or generalized.
+
+It's not about strategy or results so much as comportment.
+
+Whatever we choose to go for may be less important than the way we go for it. The compassion and care with which we regard ourselves and one another matters as much as, maybe more than, the maps we're using to chart the path. I get it: in a pyramidal society built on KPIs, it's no wonder those of us trying to make the world a better place look to metrics and outputs. UN Sustainability Goals. But what about those of us trying to forge a horizontal civilization based less on growth than on our capacity for mutualism?
+
+It's also a failsafe. Let's play "bad trip" for a second. Even if the macro-structures fail us, even if our political and economic systems degrade to the worst-case scenario that Trump and his regime are working towards, where half of us are in prison camps and the other half are employed as guards—how much could our comportment define our experience? Could we make a heaven of even that world, together, simply by the way we choose to look at each other through the containment fences? Could the basic human refusal to reduce the other to an object or function disrupt the machinery of oppression? This is what Camus meant by "rebel." Where love and care become the weapons.
+
+This flips the logic of the technocrats and apologist reformers on its head. The utilitarian mind-meld has convinced us that we must tolerate corrupted means—lies, exploitation, centralization of power, environmental destruction—as long as the projected destination is net-positive. But that is a horror story told by people who want to control the future. It's the same reason authoritarians tell us there is blood in the streets: to justify violence.
+
+If the way we treat each other in the present moment is the true compass of civilization, then the destination is more a map point than a North Star. The path is the place. For the rebel, every interaction becomes a potential act of liberation.
+
+For me, this is no longer some abstract academic exercise. Yeah, I'm a professor of something, but this is how I'm learning to navigate my most sacred encounters with other people. If you see consent as a limiting contract rather than a gateway to the ineffable, you're missing the point. It's a safe container to lose one's boundaries and become part of a living encounter. To trust in the other and oneself as parts of a living dynamic.
+
+We can level that up. I think we all, together, have to learn to trust this moment and the power of our comportment as the source of our collective healing, and our potential for universal justice. Capitalism, and its messianic son AI, is obsessed with results. Humanity is about process. When we prioritize the results of the model over the process of living, we stop engendering a civilization and instead create permission for brutality.
+
+And living a present-based ethics doesn't mean we are abandoning the future, either. What if (and I'm just "what-iffing" here) what if right action, or proper comportment, in the immediate moment doesn't just feel better—what if it leads to the most mutually beneficial long-term outcomes?
+
+Industrial Age logic, and ethics, measure inputs and outputs. Resources and yields, as if they were separate things. Sacrifices and triumphs are separated like causes and effects, winners and losers. But what if we are living in something closer to nature? An interdependent, living system that operates like a fractal?
+
+In a fractal system, the geometry of the smallest part mirrors the geometry of the whole. The macrocosm is a reflection of the microcosm. If that is true, then it is impossible to arrive at a beautiful, just macro-scale future by using ugly, cruel micro-scale means. What is right, compassionate, and honorable in the immediate moment is right for the entire system.
+
+Stepping into this realization requires a profound leap of faith. And faith is what the long-termists—on both sides of the social justice equation—are lacking. They don't trust the universe's emergent architecture. They don't trust human nature or the natural, self-organizing property of love. Because they are terrified of the inherent uncertainty of life, they try to bypass the present, forcing reality through a computational bottleneck of their own design.
+
+If the universe is a fractal, then our moral education shouldn't be about learning how to calculate outcomes or optimize spreadsheets. It has to be about learning how to feel, and to sense the others more deeply. To affect and be affected by them. We need to learn how to tolerate more, metabolize more, and engage the world with an open heart.
+
+Becoming "strategic" is a psychological defense mechanism. It is a substitute for developing these deeper, somatic sensibilities, and it prevents us from doing the hard work of presence. Strategy allows us to look away from the suffering child in front of us because we're focusing on a grand plan to save a million hypothetical children tomorrow.
+
+True moral maturity requires we surrender that narrow self-interest for a boundary-free, open-hearted, limitless understanding of our place in the greater swirl of things.
+
+Pope Leo XIV explained it in his encyclical on AI:
+
+> If the human being is treated as something to be perfected or surpassed, it becomes easier to accept that some lives are less useful, less desirable or less worthy.
+
+The technocrats want to optimize away our flaws, our grief, and our vulnerability. They want an algorithmic salvation that eliminates friction. But as the Pope reminds us, our limitations are not bugs to be patched; they are the very soil from which soul grows:
+
+> To eliminate suffering entirely would mean, in the end, extinguishing love and desire as well.
+
+Becoming human again starts with the absolute refusal to treat the person in front of you as a casualty for a hypothetical tomorrow.
+
+Once that commitment to the present is abandoned, the door opens to every form of rationalized cruelty that the twentieth century spent a hundred million lives trying to teach us to reject.
+
+Which brings us all the way back to knocking on your neighbor's door and asking to borrow something. "Bob, can I borrow your drill?" starts the whole process. Your body is local. You want to feel more connected to things? More influential?
+
+Who are the ten closest human bodies to your body when you go to sleep at night? Or twenty? What are their names? How do you get along with them? Comportment, compassion, and empathy don't have to scale up—just out. Those people are your immediate mission.
+
+The quality of a civilization is measured not by the size of its towers, but by the way people treat one another, and whether they can recognize other people as faces, not functions.
+
+The ability to care for one another is the fundamental dimension of our humanity, learned through lived experience. Reading stories to a child, offering company to an elderly person, or arranging a home so that it is welcoming are the essential gestures of community life. They teach us to value care at a societal level and train us to recognize others as persons worthy of attention.
+
+The revolution isn't something we get to enjoy after the cable news networks declare we've won. It's not something we get to; it's something we do in the here and now. That's the rebellion.
+
+If you're not doing it in the moment, you're not doing it. And if you *are* doing it in the moment, you've already won.
