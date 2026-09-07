@@ -1,0 +1,18 @@
+---
+layout: null
+permalink: /articles.json
+sitemap: false
+---
+{%- assign arts = site.articles | sort: "date" | reverse -%}
+[
+{%- for a in arts -%}
+{%- assign pub = site.publications | where: "path", a.publication | first -%}
+{%- assign catlist = "" -%}
+{%- for cref in a.categories -%}
+{%- assign catobj = site.categories | where: "path", cref | first -%}
+{%- if catobj -%}{%- assign catlist = catlist | append: catobj.title | append: "|" -%}{%- endif -%}
+{%- endfor -%}
+{%- assign cats = catlist | split: "|" -%}
+{"t":{{ a.title | strip | jsonify }},"s":{{ a.subtitle | default: "" | strip | jsonify }},"p":{{ pub.title | default: "" | jsonify }},"b":{{ a.blurb | default: "" | strip_html | normalize_whitespace | jsonify }},"d":{{ a.date | date: "%b %-d, %Y" | jsonify }},"y":{{ a.date | date: "%Y" | jsonify }},"u":{{ a.url | relative_url | jsonify }},"c":{{ cats | jsonify }},"x":{{ a.content | strip_html | normalize_whitespace | jsonify }}}{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+]
