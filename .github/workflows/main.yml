@@ -40,20 +40,6 @@ jobs:
           key: ${{ runner.os }}-cache-${{ hashFiles('**/cache.key') }}
           restore-keys: |
             ${{ runner.os }}-cache-
-      # Install modules
-      - name: Install node modules
-        working-directory: './src'
-        run: npm install
-      # Build TinaCMS
-      - name: Build TinaCMS
-        env:
-          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
-          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
-          TINA_SEARCH_TOKEN: ${{ secrets.TINA_SEARCH_TOKEN }}
-          TINA_BASE_PATH: ${{ vars.BASE_URL }}
-          CNAME: ${{ vars.CNAME }}
-        working-directory: './src'
-        run: npm run tinacms build        
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.6.0
         with:
@@ -63,10 +49,9 @@ jobs:
           ruby_ver: '3.2.0'          # should match .tool-versions
           branch: 'gh-pages'         # branch to commit the built static site files onto
           jekyll_src: './src'        # where the jekyll source is
-          jekyll_cfg: '_config.yml'  
+          jekyll_cfg: '_config.yml'
           bundler_ver: '<=2.4.22'         # latest bundler version
           cname: ${{ vars.CNAME || '' }}    # use this cname - get from github repo var
           jekyll_baseurl: ${{ vars.BASE_URL || '' }} # publish at this path - get from github repo var
           actor: ''                  # Use the GITHUB_ACTOR
           pre_build_commands: ''     # No additional dependencies to install
-
