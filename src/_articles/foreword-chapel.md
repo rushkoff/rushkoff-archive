@@ -6,7 +6,7 @@ publication: >-
 categories:
   - _categories/book-chapters.md
 date: 2024-10-22T04:00:00.000Z
-blurb: ''
+blurb: 'In *Chapel Perilous: The Life and Thought Crimes of Robert Anton Wilson*, by Gabriel Kennedy'
 notes: ''
 ---
 

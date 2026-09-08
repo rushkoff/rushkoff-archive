@@ -4,7 +4,7 @@ title: The Snow That Killed Manuel Jarrow
 subtitle: ''
 image: ''
 date: 1998-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Disco Biscuits: New Fiction from the Chemical Generation*, edited by Sarah Champion'
 notes: "1998"
 refs: ''
 sources: ''

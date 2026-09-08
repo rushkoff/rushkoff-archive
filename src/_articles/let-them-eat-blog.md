@@ -4,7 +4,7 @@ title: Blogs and the Communications Renaissance
 subtitle: ''
 image: ''
 date: 2006-06-01T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Uses of Blogs*, edited by Axel Bruns & Joanne Jacobs'
 notes: |-
   Date from Amazon
 

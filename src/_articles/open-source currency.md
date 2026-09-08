@@ -4,6 +4,7 @@ publication: _publications/what-is your dangerous idea.md
 categories:
   - _categories/book-chapters.md
 date: 2014-07-29T04:00:00.000Z
+blurb: 'In *What is Your Dangerous Idea?*, edited by John Brockman'
 ---
 
 It’s not only dangerous and by most counts preposterous; it’s happening. Open Source or, in more common parlance, “complementary” currencies are collaboratively established units representing hours of labor that can be traded for goods or services in lieu of centralized currency. The advantage is that while the value of centralized currency is based on its scarcity, the bias of complementary or local currencies is towards their abundance.

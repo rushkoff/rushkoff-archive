@@ -4,7 +4,7 @@ title: Are You Having a Good Time Yet?
 subtitle: ''
 image: ''
 date: 2001-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Seize the Day*'
 notes: 2001 from CV
 refs: ''
 sources: ''

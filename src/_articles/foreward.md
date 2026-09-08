@@ -4,7 +4,7 @@ title: Foreward
 subtitle: ''
 image: ''
 date: 2006-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Transformations in the Nervepool: The Rituals and Zoacodes of Ebon Fisher*'
 notes: "2006"
 refs: ''
 sources: ''

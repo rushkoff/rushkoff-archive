@@ -4,7 +4,7 @@ title: Preface
 subtitle: ''
 image: ''
 date: 2019-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Better Work Together: How the Power of Community Can Transform Your Business*, edited by Anthony Cabraal & Susan Basterfield'
 notes: "2019"
 refs: ''
 sources: ''

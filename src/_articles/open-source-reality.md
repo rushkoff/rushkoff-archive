@@ -4,7 +4,7 @@ title: Open Source Reality
 subtitle: ''
 image: ''
 date: 2002-11-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Disinformation: The Interviews*, by Richard Metzger'
 notes: Date from Amazon
 refs: ''
 sources: ''

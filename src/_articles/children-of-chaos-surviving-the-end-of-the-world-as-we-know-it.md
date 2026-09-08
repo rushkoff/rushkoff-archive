@@ -4,7 +4,7 @@ title: 'Children of Chaos: Surviving the End of the World as We Know It'
 subtitle: ''
 image: ''
 date: 2000-01-11T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Fresh Cream*'
 notes: Date from Amazon
 refs: ''
 sources: ''

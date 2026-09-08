@@ -4,7 +4,7 @@ title: Human Beings Are Different From Their Ancestral Species
 subtitle: ''
 image: ''
 date: 2007-10-30T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *What Are You Optimistic About?*, edited by John Brockman'
 notes: Date from Goodreads
 refs: ''
 sources: ''

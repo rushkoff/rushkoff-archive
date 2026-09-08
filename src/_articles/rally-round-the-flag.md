@@ -4,7 +4,7 @@ title: Rally 'Round the Flag
 subtitle: ''
 image: ''
 date: 2003-10-13T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Wrestling With Zion*, edited by Tony Kushner & Alisa Solomon'
 notes: Date from Amazon
 refs: ''
 sources: ''

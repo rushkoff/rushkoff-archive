@@ -4,7 +4,7 @@ title: Renaissance Now
 subtitle: ''
 image: ''
 date: 2017-08-15T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Platform Cooperativism: Ours to Hack and to Own*, edited by Trebor Scholz & Nathan Schneider'
 notes: Date from Amazon (given as 2016 on CV)
 refs: ''
 sources: ''

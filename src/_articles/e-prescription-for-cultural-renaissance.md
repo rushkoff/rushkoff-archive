@@ -4,7 +4,7 @@ title: E-Prescription for Cultural Renaissance
 subtitle: ''
 image: ''
 date: 2001-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Ecstasy: The Complete Guide*, edited by Julie Holland'
 notes: |-
   Source: [http://www.sterneck.net/drogen/rushkoff-drugs/index.php](http://www.sterneck.net/drogen/rushkoff-drugs/index.php "http://www.sterneck.net/drogen/rushkoff-drugs/index.php")
 

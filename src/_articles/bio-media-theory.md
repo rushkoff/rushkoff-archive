@@ -4,7 +4,7 @@ title: Bio-Media Theory
 subtitle: ''
 image: ''
 date: 2005-06-06T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Conversations on the Edge of the Apocalypse*, by David Jay Brown'
 notes: Date from Amazon
 refs: ''
 sources: ''

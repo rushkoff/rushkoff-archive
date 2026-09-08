@@ -3,8 +3,7 @@ title: Playing With Fractals
 subtitle: 
 date: 2002-01-01T05:00:00.000Z
 publication: _publications/anthologies.md
-blurb: Published in *Sarah Sze*, By Sarah Sze (Center for Curatorial Studies/Bard
-  College, 2002)
+blurb: 'In *Sarah Sze*, by Sarah Sze'
 notes: 
 refs: 
 sources: 

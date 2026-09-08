@@ -4,7 +4,7 @@ title: Let Them Eat Apple Pie
 subtitle: Cultural Imperialism and the Internet
 image: ''
 date: 1999-08-01T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *The New Top Line*'
 notes: Date from Amazon
 refs: ''
 sources: ''

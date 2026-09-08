@@ -4,7 +4,7 @@ publication: _publications/metamagick-the book of atem.md
 categories:
   - _categories/book-chapters.md
 date: 2008-07-01T04:00:00.000Z
-blurb: ''
+blurb: 'In *Meta-Magick: The Book of Atem*, by Philip H. Farber'
 notes: ''
 ---
 

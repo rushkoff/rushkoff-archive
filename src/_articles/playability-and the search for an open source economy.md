@@ -4,6 +4,7 @@ publication: _publications/the-moneylab reader.md
 categories:
   - _categories/book-chapters.md
 date: 2015-01-01T05:00:00.000Z
+blurb: 'In *The MoneyLab Reader*, edited by Geert Lovink & Nathaniel Tkacz'
 ---
 
 You can’t compete with a monopoly by playing the game by the monopolist’s rules. The monopoly has the resources, the distribution channels, the R\&D resources; in short, they just have too many strengths. You compete with a monopoly by changing the rules of the game into a set that favors your strengths.\

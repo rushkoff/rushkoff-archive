@@ -4,7 +4,7 @@ publication: _publications/an-illustrated dictionary of cyborg anthropology.md
 categories:
   - _categories/book-chapters.md
 date: 2014-01-08T05:00:00.000Z
-blurb: ''
+blurb: 'In *An Illustrated Dictionary of Cyborg Anthropology*, by Amber Case'
 notes: ''
 ---
 

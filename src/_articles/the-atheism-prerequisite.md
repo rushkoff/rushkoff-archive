@@ -4,7 +4,7 @@ title: The Atheism Prerequisite
 subtitle: ''
 image: ''
 date: 2015-02-17T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *This Idea Must Die*, edited by John Brockman'
 notes: Date from Amazon
 refs: ''
 sources: ''

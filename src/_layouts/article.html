@@ -86,9 +86,9 @@
     <article>
       <h1 class="title">{{ page.title | escape }}</h1>
       {% if page.subtitle and page.subtitle != "" %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+      {% assign isChapter = false %}{% if page.categories contains "_categories/book-chapters.md" %}{% assign isChapter = true %}{% endif %}
       <p class="byline">
-        By Douglas Rushkoff{% if publication and publication.title %} &middot;
-        {% if publication.url and publication.url != "" %}<a href="{{ publication.url }}">{{ publication.title | escape }}</a>{% else %}{{ publication.title | escape }}{% endif %}{% endif %}{% if page.date %} &middot; {{ page.date | date: "%B %-d, %Y" }}{% endif %}
+        By Douglas Rushkoff{% unless isChapter %}{% if publication and publication.title %} &middot; {% if publication.url and publication.url != "" %}<a href="{{ publication.url }}">{{ publication.title | escape }}</a>{% else %}{{ publication.title | escape }}{% endif %}{% endif %}{% endunless %}{% if page.date %} &middot; {{ page.date | date: "%B %-d, %Y" }}{% endif %}
       </p>
       {% if page.blurb and page.blurb != "" %}<div class="sourcenote">{{ page.blurb | markdownify }}</div>{% endif %}
 

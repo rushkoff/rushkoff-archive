@@ -4,6 +4,7 @@ publication: _publications/nonbinary-a memoir.md
 categories:
   - _categories/book-chapters.md
 date: 2025-05-15T22:06:39.703Z
+blurb: 'In *Nonbinary: A Memoir*, by Genesis P-Orridge'
 ---
 
 “It’s my belief that one of the problems of the world so far, or one of its evolutionary states that is coming to an end, is the binary system. The either/or system. The good/bad, black/white way of perceiving everything. That’s not the way the universe is built. That’s not how matter is. That’s not now the brain is. Nothing is like that. It’s a fallacy.”

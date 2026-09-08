@@ -4,7 +4,7 @@ title: Writer's Block
 subtitle: ''
 image: ''
 date: 2012-09-12T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Breakthrough!: Proven Strategies to Overcome Creative Block*, edited by Alex Cornell'
 notes: Date from Amazon
 refs: ''
 sources: ''

@@ -4,7 +4,7 @@ title: Do You Use Your Technology or Does It Use You?
 subtitle: ''
 image: ''
 date: 2012-10-16T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Unbored: The Essential Field Guide to Serious Fun*, by Joshua Glenn & Elizabeth Foy Larsen'
 notes: Date from Amazon
 refs: ''
 sources: ''

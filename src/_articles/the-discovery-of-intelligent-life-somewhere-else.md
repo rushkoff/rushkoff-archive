@@ -4,7 +4,7 @@ title: The Discovery of Intelligent Life Somewhere Else
 subtitle: ''
 image: ''
 date: 2009-12-22T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *This Will Change Everything*, edited by John Brockman'
 notes: Date from Amazon
 refs: ''
 sources: ''

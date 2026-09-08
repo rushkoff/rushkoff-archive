@@ -4,7 +4,7 @@ title: STD Etiquette
 subtitle: ''
 image: ''
 date: 1999-07-30T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *2SexE*, edited by Antonio Cuevas & Jennifer Lee'
 notes: Date from Amazon
 refs: ''
 sources: ''

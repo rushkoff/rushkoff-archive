@@ -6,7 +6,7 @@ publication: >-
 categories:
   - _categories/book-chapters.md
 date: 2022-06-14T04:00:00.000Z
-blurb: ''
+blurb: 'In *Judaism Without Tribalism*, by Rami Shapiro'
 notes: ''
 ---
 

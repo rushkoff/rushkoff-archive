@@ -4,7 +4,7 @@ title: A Computer Ate My Book
 subtitle: ''
 image: ''
 date: 2005-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Bookmark Now: Writing in Unreaderly Times*, edited by Kevin Smokler'
 notes: "2005"
 refs: ''
 sources: ''

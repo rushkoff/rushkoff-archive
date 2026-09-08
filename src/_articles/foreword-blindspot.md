@@ -4,7 +4,7 @@ publication: _publications/blind-spot illuminating the hidden value in business.
 categories:
   - _categories/book-chapters.md
 date: 2016-11-02T04:00:00.000Z
-blurb: ''
+blurb: 'In *Blind Spot: Illuminating the Hidden Value in Business*'
 notes: ''
 ---
 

@@ -4,7 +4,7 @@ title: The Shift Online
 subtitle: ''
 image: ''
 date: 1997-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Solstice Shift: Magical Blend''s Synergistic Guide to the Coming Age*, edited by Jerry Snider & Michael Peter Langevin'
 notes: ''
 refs: ''
 sources: ''

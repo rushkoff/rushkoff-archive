@@ -4,7 +4,7 @@ title: The Figure or the Ground?
 subtitle: ''
 image: ''
 date: 2015-10-06T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *What To Think About Machines That Think*, edited by John Brockman'
 notes: Date from Amazon
 refs: ''
 sources: ''

@@ -4,7 +4,7 @@ title: Looking for God in the Gutter
 subtitle: ''
 image: ''
 date: 2010-10-21T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Graven Images: Religion in Comic Books and Graphic Novels*, edited by A. David Lewis & Christine Hoff Kraemer'
 notes: Date from Amazon
 refs: ''
 sources: ''

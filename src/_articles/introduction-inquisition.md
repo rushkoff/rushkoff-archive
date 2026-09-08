@@ -6,7 +6,7 @@ publication: >-
 categories:
   - _categories/book-chapters.md
 date: 2020-04-23T04:00:00.000Z
-blurb: ''
+blurb: 'In *The New Inquisition: Irrational Rationalism and the Citadel of Science*, by Robert Anton Wilson'
 notes: ''
 ---
 

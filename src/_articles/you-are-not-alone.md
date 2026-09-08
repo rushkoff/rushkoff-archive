@@ -4,7 +4,7 @@ title: You Are Not Alone
 subtitle: MST3K, LOST IN SPACE, and the Reality of Science Fiction
 image: ''
 date: 2004-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Prime Times: Writers on Their Favorite TV Shows*, edited by Douglas Bauer'
 notes: 2004 from CV
 refs: ''
 sources: ''

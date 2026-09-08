@@ -4,7 +4,7 @@ title: Citizen of the Future
 subtitle: ''
 image: ''
 date: 2002-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *TechTV''s Catalog of Tomorrow*, edited by Andrew Zolli'
 notes: Date from Amazon
 refs: ''
 sources: ''

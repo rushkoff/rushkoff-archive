@@ -4,7 +4,7 @@ title: Beyond Wargames
 subtitle: ''
 image: ''
 date: 2008-09-01T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Rebooting America*, edited by Allison Fine & Micah L. Sifry'
 notes: Date from Amazon
 refs: ''
 sources: ''

@@ -8,7 +8,7 @@ publication: _publications/follow-for-now-vol.2-more-interviews-with-friends-and
 categories:
   - _categories/book-chapters.md
 date: 2021-09-16T04:00:00.000Z
-blurb: ''
+blurb: 'In *Follow for Now, Vol. 2: More Interviews with Friends and Heroes*, edited by Roy Christopher'
 notes: |
   Date (October 8, 2010) given on first page; book published in 2021
 ---

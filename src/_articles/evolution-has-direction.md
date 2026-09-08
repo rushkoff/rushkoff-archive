@@ -4,7 +4,7 @@ title: Evolution Has Direction
 subtitle: ''
 image: ''
 date: 2006-02-28T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *What We Believe But Cannot Prove*, edited by John Brockman'
 notes: Date from Amazon
 refs: ''
 sources: ''

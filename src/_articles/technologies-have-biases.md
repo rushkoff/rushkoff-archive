@@ -4,7 +4,7 @@ title: Technologies Have Biases
 subtitle: ''
 image: ''
 date: 2012-02-14T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *This Will Make You Smarter*, edited by John Brockman'
 notes: Date from Amazon
 refs: ''
 sources: ''

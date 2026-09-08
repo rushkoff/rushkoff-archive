@@ -4,7 +4,7 @@ title: Picture Perfect
 subtitle: ''
 image: ''
 date: 2004-03-30T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *What Makes a Man: 22 Writers Imagine the Future*, edited by Rebecca Walker'
 notes: Date from Amazon
 refs: ''
 sources: ''

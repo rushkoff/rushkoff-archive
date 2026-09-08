@@ -4,7 +4,7 @@ title: Experimental Programming
 subtitle: ''
 image: ''
 date: 2004-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Killed: Great Journalism Too Hot to Print*, edited by David Wallis'
 notes: "2004"
 refs: ''
 sources: ''

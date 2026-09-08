@@ -4,7 +4,7 @@ title: 'Cannabis: Stealth Goddess'
 subtitle: ''
 image: ''
 date: 2010-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *The Pot Book*, edited by Julie Holland'
 notes: "2010"
 refs: ''
 sources: ''

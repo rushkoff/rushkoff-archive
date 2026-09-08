@@ -4,7 +4,7 @@ publication: _publications/event-horizon book 1.md
 categories:
   - _categories/book-chapters.md
 date: 2005-05-09T04:00:00.000Z
-blurb: ''
+blurb: 'In *Event Horizon Book 1*'
 notes: >
   Source:
   [https://rushkoff.com/comics-as-event-horizon/](https://rushkoff.com/comics-as-event-horizon/)

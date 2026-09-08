@@ -4,7 +4,7 @@ title: The Loss of Our Collective Cognition and Awareness
 subtitle: ''
 image: ''
 date: 2014-02-11T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *What Should We Be Worried About?*, edited by John Brockman'
 notes: Date from Amazon
 refs: ''
 sources: ''

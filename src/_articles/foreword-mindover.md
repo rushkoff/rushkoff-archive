@@ -4,7 +4,7 @@ publication: _publications/mind-over media propaganda education for a digital ag
 categories:
   - _categories/book-chapters.md
 date: 2020-10-20T04:00:00.000Z
-blurb: ''
+blurb: 'In *Mind Over Media: Propaganda Education for a Digital Age*, by Renee Hobbs'
 notes: ''
 ---
 

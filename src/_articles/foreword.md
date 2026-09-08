@@ -4,7 +4,7 @@ title: Foreword
 subtitle: ''
 image: ''
 date: 2003-11-06T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Rave Culture and Religion*, edited by Graham St. John'
 notes: |-
   Source: [https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf](https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf "https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf")
 

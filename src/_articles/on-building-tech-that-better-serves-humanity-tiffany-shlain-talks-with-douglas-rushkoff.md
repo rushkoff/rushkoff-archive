@@ -5,7 +5,7 @@ title: On Building Tech That Better Serves Humanity - Tiffany Shlain Talks With 
 subtitle: ''
 image: ''
 date: 2019-10-26T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *How to MozFest*'
 notes: ''
 refs: ''
 sources: ''

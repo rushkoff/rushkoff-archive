@@ -4,7 +4,7 @@ title: Program Your Own Money
 subtitle: ''
 image: ''
 date: 2011-09-27T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *What Comes After Money?*, edited by Daniel Pinchbeck & Ken Jordan'
 notes: Date from Amazon
 refs: ''
 sources: ''

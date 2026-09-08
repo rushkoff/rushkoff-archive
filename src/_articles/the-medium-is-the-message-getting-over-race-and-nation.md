@@ -4,7 +4,7 @@ title: 'The Medium is the Message: Getting Over Race and Nation'
 subtitle: ''
 image: ''
 date: 2007-08-01T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *What Israel Means to Me*, edited by Alan Dershowitz'
 notes: Date from Amazon
 refs: ''
 sources: ''

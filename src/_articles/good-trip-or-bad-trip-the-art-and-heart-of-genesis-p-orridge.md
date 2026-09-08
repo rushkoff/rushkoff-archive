@@ -8,7 +8,7 @@ publication: _publications/painful-but-fabulous-the-life-and-art-of-genesis-p-or
 categories:
   - _categories/book-chapters.md
 date: 2003-01-06T05:00:00.000Z
-blurb: ''
+blurb: 'In *Painful But Fabulous: The Life and Art of Genesis P-Orridge*'
 notes: |
   Date from Amazon
 ---

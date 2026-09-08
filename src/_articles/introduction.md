@@ -4,7 +4,7 @@ title: Introduction
 subtitle: ''
 image: ''
 date: 2005-02-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *We Know What You Want*, by Martin Howard'
 notes: Date from Amazon
 refs: ''
 sources: ''

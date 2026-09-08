@@ -4,7 +4,7 @@ title: Interview With Genesis P-Orridge
 subtitle: ''
 image: ''
 date: 2014-04-01T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Confidence, or the Appearance of Confidence*, edited by Vendela Vida & Ross Simonini'
 notes: "Title from CV  \nDate from Amazon"
 refs: ''
 sources: ''

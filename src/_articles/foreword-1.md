@@ -4,7 +4,7 @@ title: Foreword
 subtitle: ''
 image: ''
 date: 2015-08-27T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Media Education for a Digital Generation*, edited by Julie Frechette & Rob Williams'
 notes: Date from Amazon
 refs: ''
 sources: ''

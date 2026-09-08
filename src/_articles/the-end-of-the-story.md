@@ -4,7 +4,7 @@ title: The End of the Story
 subtitle: How the TV Remote Killed Traditional Structure
 image: ''
 date: 1999-01-31T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *The Economics, Technology and Content of Digital TV*, edited by Darcy Gerbarg'
 notes: Date from Amazon
 refs: ''
 sources: ''

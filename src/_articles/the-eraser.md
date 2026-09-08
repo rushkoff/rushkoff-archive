@@ -4,7 +4,7 @@ title: The Eraser
 subtitle: ''
 image: ''
 date: 2000-01-12T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *The Greatest Inventions of the Past 2,000 Years*, edited by John Brockman'
 notes: Date from Amazon
 refs: ''
 sources: ''

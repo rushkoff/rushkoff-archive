@@ -4,7 +4,7 @@ title: Learning a Few Things
 subtitle: ''
 image: ''
 date: 2002-04-15T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *When Everything Learns*'
 notes: Unknown publication date. Date used is from Dropbox, which was the source for
   this article.
 refs: ''

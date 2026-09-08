@@ -4,7 +4,7 @@ title: The Information Arms Race
 subtitle: ''
 image: ''
 date: 2003-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Communication and Cyberspace*, edited by Lance Strate & Ronald L. Jacobson'
 notes: 2003 on CV
 refs: ''
 sources: ''

@@ -4,7 +4,7 @@ title: People Shape the Media
 subtitle: ''
 image: ''
 date: 1999-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *Debating Democracy*, edited by Bruce Miroff & Raymond Seidelman'
 notes: "1999"
 refs: ''
 sources: ''

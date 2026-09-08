@@ -4,7 +4,7 @@ title: Financial Metrics and the Economic Crisis
 subtitle: ''
 image: ''
 date: 2009-06-01T00:00:00.000-04:00
-blurb: ''
+blurb: 'In *Depression 2.0*, by Cletus Nelson'
 notes: Date from Amazon
 refs: ''
 sources: ''

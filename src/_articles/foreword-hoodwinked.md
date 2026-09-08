@@ -4,7 +4,7 @@ publication: _publications/hoodwinked-how marketers use the same tactics as cult
 categories:
   - _categories/book-chapters.md
 date: 2025-02-04T05:00:00.000Z
-blurb: ''
+blurb: 'In *Hoodwinked: How Marketers Use the Same Tactics as Cults*, by Mara Einstein'
 notes: ''
 ---
 

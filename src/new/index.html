@@ -169,13 +169,17 @@ permalink: /
   }
 
   function rowHTML(a){
+    var isChapter = (a.c||[]).indexOf('Book Chapters')!==-1;
     var title = a.u ? '<a class="t" href="'+esc(a.u)+'">'+esc(a.t)+'</a>'
                     : '<span class="t">'+esc(a.t)+'</span>';
+    // Book chapters carry their book + author in the blurb line, so we don't
+    // repeat a (often placeholder) publication on the main line.
+    var showPub = a.p && !isChapter;
     var meta = '';
-    if(a.p){ meta += ' <span class="meta pub">'+esc(a.p)+'</span>'; }
-    if(a.d){ meta += '<span class="meta">'+(a.p?', ':' ')+'</span><span class="date">'+esc(a.d)+'</span>'; }
+    if(showPub){ meta += ' <span class="meta pub">'+esc(a.p)+'</span>'; }
+    if(a.d){ meta += '<span class="meta">'+(showPub?', ':' ')+'</span><span class="date">'+esc(a.d)+'</span>'; }
     var line = '<div class="line">'+title+'<span class="meta">.</span>'+meta+'</div>';
-    var subtext = a.s ? a.s : ((a.c||[]).indexOf('Book Chapters')!==-1 && a.b ? a.b : '');
+    var subtext = isChapter ? (a.b || a.s) : a.s;
     var sub = subtext ? '<span class="sub">'+mdEm(subtext)+'</span>' : '';
     return '<li class="item">'+line+sub+'</li>';
   }

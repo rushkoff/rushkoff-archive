@@ -4,7 +4,7 @@ title: Generation X
 subtitle: ''
 image: ''
 date: 1996-01-01T00:00:00.000-05:00
-blurb: ''
+blurb: 'In *A Magical Universe: The Best of Magical Blend Magazine*, edited by Jerry Snider & Michael Peter Langevin'
 notes: ''
 refs: ''
 sources: ''
