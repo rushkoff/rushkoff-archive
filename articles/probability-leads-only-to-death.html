@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Probability Leads Only to Death &mdash; Douglas Rushkoff</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Gelasio:ital,wght@0,500;0,600;1,400&family=M+PLUS+1:wght@500;700&display=swap" rel="stylesheet">
+    <style>
+      :root{
+        --ink:#2c3e50; --muted:#6d7278; --link:#0a58ca; --rule:#e6e8eb; --bg:#ffffff;
+        --font-title:"M PLUS 1", system-ui, sans-serif;
+        --font-body:"Fira Sans", system-ui, sans-serif;
+        --font-brand:"Gelasio", Georgia, serif;
+      }
+      *{box-sizing:border-box}
+      html{-webkit-text-size-adjust:100%}
+      body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-body);
+        font-size:18px;line-height:1.7}
+      a{color:var(--link);text-decoration:none}
+      a:hover{text-decoration:underline}
+      .wrap{max-width:680px;margin:0 auto;padding:0 22px}
+
+      header.site{border-bottom:1px solid var(--rule);padding:20px 0}
+      header.site a.home{display:inline-block;text-decoration:none}
+      header.site a.home:hover{text-decoration:none}
+      .brand{font-family:var(--font-brand);font-weight:600;font-size:22px;color:var(--ink);line-height:1}
+      .kicker{font-family:var(--font-title);font-weight:700;letter-spacing:.16em;text-transform:uppercase;
+        font-size:11px;color:var(--muted);margin-top:5px;display:block}
+
+      article{padding:34px 0 8px}
+      h1.title{font-family:var(--font-title);font-weight:700;font-size:31px;line-height:1.2;
+        margin:0 0 6px;color:var(--ink)}
+      .subtitle{font-family:var(--font-title);font-weight:500;font-size:20px;line-height:1.3;
+        color:var(--ink);margin:0 0 14px}
+      .byline{font-size:15px;color:var(--muted);margin:0 0 6px;line-height:1.5}
+      .byline a{color:var(--muted);text-decoration:underline}
+      .sourcenote{font-size:15px;color:var(--muted);font-style:normal;margin:2px 0 0}
+      .sourcenote em{font-style:italic}
+      .sourcenote p{margin:0}
+      .rule{border:0;border-top:1px solid var(--rule);margin:22px 0 26px}
+
+      .hero{width:100%;height:auto;border-radius:6px;margin:0 0 24px}
+
+      .body{font-size:18px;line-height:1.75}
+      .body p{margin:0 0 1.15em}
+      .body h2,.body h3,.body h4{font-family:var(--font-title);font-weight:700;line-height:1.3;
+        margin:1.7em 0 .5em;color:var(--ink)}
+      .body h2{font-size:23px} .body h3{font-size:20px} .body h4{font-size:18px}
+      .body a{color:var(--link)}
+      .body img{max-width:100%;height:auto;border-radius:6px;margin:1em 0}
+      .body blockquote{margin:1.2em 0;padding:2px 0 2px 18px;border-left:3px solid var(--rule);
+        color:#495057;font-style:italic}
+      .body ul,.body ol{margin:0 0 1.15em;padding-left:1.4em}
+      .body li{margin:.3em 0}
+      .body hr{border:0;border-top:1px solid var(--rule);margin:2em 0}
+      .body code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9em;
+        background:#f2f3f5;padding:.1em .35em;border-radius:4px}
+      .body pre{background:#f6f7f8;padding:14px 16px;border-radius:8px;overflow:auto}
+      .body pre code{background:none;padding:0}
+
+      footer.back{border-top:1px solid var(--rule);margin-top:38px;padding:22px 0 60px;font-size:15px}
+
+      @media (max-width:560px){
+        body{font-size:17px}
+        h1.title{font-size:26px}
+        .subtitle{font-size:18px}
+        .body{font-size:17px}
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap">
+        <a class="home" href="/">
+          <span class="brand">Douglas Rushkoff</span>
+          <span class="kicker">Article Archive</span>
+        </a>
+      </div>
+    </header>
+    <main>
+      <div class="wrap">
+        <article>
+          <h1 class="title">Probability Leads Only to Death</h1>
+          <p class="subtitle">Be careful how closely you follow the data</p>
+          <p class="byline">
+            By Douglas Rushkoff &middot; <a href="/publications/medium.html">Medium</a> &middot; January 17, 2023
+          </p>
+          <hr class="rule">
+          <img class="hero" src="/uploads/0_b4yaxbwocdwiriyj.jpg"
+        alt="Article image">
+          <div class="body">
+            <p>I suppose we all want the greatest chances of a successful outcome in anything we do. Most of us want to take whatever steps offer us the highest probability of getting the job, winning the pitch, selling the book, beating the cancer, meeting a compatible mate, or getting/doing/achieving whatever it is we’re after. But I’ve started to wonder if our digital tools, or at least the tech solutionist mindset they afford (see <a href="https://wwnorton.com/books/survival-of-the-richest">Survival of the Richest</a>) may be fetishizing the powers of probability at the expense of true human ingenuity.</p>
+            <p>Digital technologies not only offer the ability to calculate probabilities based on unprecedented volume of data and statistics; they also allow engineers to model and iterate scenarios through simulations. That’s what so many of our artificial intelligences are busy doing most of the time. The plots of <em>Westworld</em>, <em>Terminator</em>, <em>The Peripheral</em> and many other science fiction stories are based on the idea that we can run millions of simulations in order to identify the one that leads to the greatest probability of success or even survival. After gaining that knowledge, it could be considered almost unethical not to take that path.</p>
+            <p>For example, imagine a situation where a relative has been told they have a likely fatal cancer, but have the greatest odds of survival if they take a particular combination of chemo drugs. Assuming side-effects are no worse than the symptoms and that the person wants to live, shouldn’t they take the path offering the greatest likelihood of survival? Or, for another example, what if we know from historical data, that a business, student, or artist has the greatest chance of succeeding by following a particular path. If they’re in their right mind, why would they do anything else?</p>
+            <p>Many of the technologists and systems thinkers I’ve met in Silicon Valley embrace this logic of probability in everything they do — from raising money and hiring employees to self-care, exercise and selecting a mate. It’s a form of math-nerd power applied to life. Use machine logic and cycles to run simulations, determine probable outcomes, and act accordingly.</p>
+            <p>But humanity and life were themselves highly improbable outcomes. Life is an outlier phenomenon — perhaps even cosmically unique. So were the discovery of antibiotics, psychedelics, propulsion, speech, relativity, and probability itself. Amazingly, in spite of their propensity toward festishizing probability, most tech titans I’ve met hold themselves out as unique and improbable uber-humans, and often bet their companies’ fortunes on high-risk, high-reward “moonshot” projects.</p>
+            <p>No, it’s just we the lowly masses of consumers and users who are supposed keep reverting to the mean, following the instructions of our algorithms, and accepting the premise that the tightly controlled latitude of freedom offered by our apps will afford us better lives. That’s how tech companies justify embedding almost all of our software with everything they know about behavioral finance and captology. It’s for our own good. In reality, I suspect our conformity with previously collected data sets only optimizes our predictability for the benefit of the marketplace.</p>
+            <p>More importantly, what happens to a society that narrows the potential paths of its actors to the most probable ones? What happens when being weird gets harder rather than easier? Where does innovation come from? When we’re in a world facing numerous existential dilemmas, do we really want to tamp down on the behaviors that yield novel solutions?</p>
+            <p>Without intervention, I suspect we continue down the path of least resistance, incapable of breaking our patterns, and moving inexorably toward the only possible certainty (and I don’t mean taxes, but the other one).</p>
+            <p>It’s time we welcome the improbable, instead. It’s more fun and — dare I say it — more likely to afford us a living future.</p>
+          </div>
+        </article>
+      </div>
+    </main>
+    <footer class="back">
+      <div class="wrap">
+        <a href="/">&larr; Back to the archive</a>
+      </div>
+    </footer>
+  </body>
+</html>

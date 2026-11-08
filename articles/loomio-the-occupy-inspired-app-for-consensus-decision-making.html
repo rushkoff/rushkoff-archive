@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Loomio: The Occupy Inspired App for Consensus Decision Making &mdash; Douglas Rushkoff</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Gelasio:ital,wght@0,500;0,600;1,400&family=M+PLUS+1:wght@500;700&display=swap" rel="stylesheet">
+    <style>
+      :root{
+        --ink:#2c3e50; --muted:#6d7278; --link:#0a58ca; --rule:#e6e8eb; --bg:#ffffff;
+        --font-title:"M PLUS 1", system-ui, sans-serif;
+        --font-body:"Fira Sans", system-ui, sans-serif;
+        --font-brand:"Gelasio", Georgia, serif;
+      }
+      *{box-sizing:border-box}
+      html{-webkit-text-size-adjust:100%}
+      body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-body);
+        font-size:18px;line-height:1.7}
+      a{color:var(--link);text-decoration:none}
+      a:hover{text-decoration:underline}
+      .wrap{max-width:680px;margin:0 auto;padding:0 22px}
+
+      header.site{border-bottom:1px solid var(--rule);padding:20px 0}
+      header.site a.home{display:inline-block;text-decoration:none}
+      header.site a.home:hover{text-decoration:none}
+      .brand{font-family:var(--font-brand);font-weight:600;font-size:22px;color:var(--ink);line-height:1}
+      .kicker{font-family:var(--font-title);font-weight:700;letter-spacing:.16em;text-transform:uppercase;
+        font-size:11px;color:var(--muted);margin-top:5px;display:block}
+
+      article{padding:34px 0 8px}
+      h1.title{font-family:var(--font-title);font-weight:700;font-size:31px;line-height:1.2;
+        margin:0 0 6px;color:var(--ink)}
+      .subtitle{font-family:var(--font-title);font-weight:500;font-size:20px;line-height:1.3;
+        color:var(--ink);margin:0 0 14px}
+      .byline{font-size:15px;color:var(--muted);margin:0 0 6px;line-height:1.5}
+      .byline a{color:var(--muted);text-decoration:underline}
+      .sourcenote{font-size:15px;color:var(--muted);font-style:normal;margin:2px 0 0}
+      .sourcenote em{font-style:italic}
+      .sourcenote p{margin:0}
+      .rule{border:0;border-top:1px solid var(--rule);margin:22px 0 26px}
+
+      .hero{width:100%;height:auto;border-radius:6px;margin:0 0 24px}
+
+      .body{font-size:18px;line-height:1.75}
+      .body p{margin:0 0 1.15em}
+      .body h2,.body h3,.body h4{font-family:var(--font-title);font-weight:700;line-height:1.3;
+        margin:1.7em 0 .5em;color:var(--ink)}
+      .body h2{font-size:23px} .body h3{font-size:20px} .body h4{font-size:18px}
+      .body a{color:var(--link)}
+      .body img{max-width:100%;height:auto;border-radius:6px;margin:1em 0}
+      .body blockquote{margin:1.2em 0;padding:2px 0 2px 18px;border-left:3px solid var(--rule);
+        color:#495057;font-style:italic}
+      .body ul,.body ol{margin:0 0 1.15em;padding-left:1.4em}
+      .body li{margin:.3em 0}
+      .body hr{border:0;border-top:1px solid var(--rule);margin:2em 0}
+      .body code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9em;
+        background:#f2f3f5;padding:.1em .35em;border-radius:4px}
+      .body pre{background:#f6f7f8;padding:14px 16px;border-radius:8px;overflow:auto}
+      .body pre code{background:none;padding:0}
+
+      footer.back{border-top:1px solid var(--rule);margin-top:38px;padding:22px 0 60px;font-size:15px}
+
+      @media (max-width:560px){
+        body{font-size:17px}
+        h1.title{font-size:26px}
+        .subtitle{font-size:18px}
+        .body{font-size:17px}
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap">
+        <a class="home" href="/">
+          <span class="brand">Douglas Rushkoff</span>
+          <span class="kicker">Article Archive</span>
+        </a>
+      </div>
+    </header>
+    <main>
+      <div class="wrap">
+        <article>
+          <h1 class="title">Loomio: The Occupy Inspired App for Consensus Decision Making</h1>
+          <p class="byline">
+            By Douglas Rushkoff &middot; <a href="/publications/shareable.html">Shareable</a> &middot; March 19, 2014
+          </p>
+          <hr class="rule">
+          <img class="hero" src="/uploads/blog_top-image_loomio.png"
+        alt="Article image">
+          <div class="body">
+            <p>The best thing about Occupy Wall Street wasn’t what it argued politically or accomplished legislatively, but what it modeled for us: a new way of engaging with issues, resolving conflict, and reaching consensus. It was a style of engagement that seemed like it could only happen in person, between young people willing to sit in a cold park all night until they could come to an agreement over an issue.</p>
+            <p>But now, a small collective in New Zealand has developed a digital platform through which any group — large or small, local or global — can take a page from the Occupier’s handbook. It’s called <a href="https://loomio.org/">Loomio</a>, and it’s already being used by civic activists in Ukraine, thousands of direct democracy advocates in Greece, municipalities in England, foundations, and credit unions.</p>
+            <p>It’s all based on what the Occupy movement called the General Assembly, an alternative to parliamentary procedure, borrowed from the Ancient Greek senate. It’s a deceptively simple (and easily satirized) process where the crowd waves their hands to indicate their approval or level of objection to a proposal. It may look a little silly, but it proved a valid or even superior method for forging consensus than traditional debate, where one side wins and the other, well, loses.</p>
+            <p>The problem with the General Assembly, like representative democracy, is that it’s quite limited in scale. You can only have so many people engaging with one another, blocking motions, and making arguments. Plus, it just has to happen in person.</p>
+            <p>Well, now there’s an app for that. The first time I saw it in beta, I asked if I could be an advisor to the collective working on it. (They agreed.) And this week, they’re finally releasing the application and doing a crowdfunding <a href="https://love.loomio.org/">campaign</a> to develop it further.</p>
+            <p>Amazingly, there exists no great tool online for groups to make decisions. There are plenty of platforms on which to collaborate or work together. But the most complicated decisions most of us have made online deal with the time or location of a meeting.</p>
+            <p>The Loomio application lets members of a group offer proposals, discuss their merits, make changes, and register their feelings all along the way. By entering into this process in good faith, even large groups can steer towards outcomes that may not be perfect for everyone, but make the fewest people unhappy — and nobody too very upset.</p>
+            <p>It’s not much more than a pie graph with four buttons, but its simplicity (and privacy) is getting it positive attention from a broad cross section of people across the globe—from remote villages in India, community hospitals in Vietnam, to government departments and early childhood education centers. Even the Wellington City Council that 12 months previously had been trying to evict Loomio’s developers from the public square, is now using Loomio to collaborate with citizens in developing policy.</p>
+            <p>I can only wonder what would have happened if the recent controversy over installing a synthetic football field at the high school in my community had been conducted on platform like Loomio instead of at contentious town hall debates. I know people who still aren’t on speaking terms as a result of our all-or-nothing, winner-takes-all, scorched earth battle.</p>
+            <p>Likewise, the possibilities raised by Loomio force me to question our nation’s reliance on a two-party political system hatched back in the 1700s, especially as the spin cycle of 21st Century media and markets only intensifies its polarities. What was supposed to be a way of generating multifaceted solutions has devolved into intransigence and extremism. And paralysis.</p>
+            <p>Debate itself is a form of combat, not an approach to reaching an agreement. It’s geared toward creating no greater number of winners than losers. That’s not what democracy was supposed to be about. As one of Loomio’s founders, Ben Knight explains, “Democracy is about collaboration — people coming together and making decisions. Democracy is not a scarce resource; it doesn’t need to be this abstract thing that we only get access to once every four years, managed by a professional class far away. With the right tools, it can be a skill that we practice together every day, in our schools, our workplaces and our communities.”</p>
+            <p>While Loomio might not replace representative democracy — nor should we necessarily want it to — it may take some of the pressure off our democratic institutions by giving people the ability to make a whole lot of decisions for themselves, and with one another.</p>
+          </div>
+        </article>
+      </div>
+    </main>
+    <footer class="back">
+      <div class="wrap">
+        <a href="/">&larr; Back to the archive</a>
+      </div>
+    </footer>
+  </body>
+</html>
